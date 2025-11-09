@@ -1,0 +1,1 @@
+export default { base: '/health-hci-static-agent/', server: { port: 5173, open: true } }
