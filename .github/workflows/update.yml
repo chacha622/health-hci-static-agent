@@ -2,7 +2,7 @@ name: Update & Deploy Health-HCI Agent
 
 on:
   schedule:
-    # 每天北京时间 12:00 自动执行（UTC 时间 04:00）
+    # 每天北京时间 12:00 自动执行（UTC 04:00）
     - cron: '0 4 * * *'
   workflow_dispatch:
 
@@ -18,7 +18,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # 确保能提交更改
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -30,17 +30,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install feedparser requests
 
-      - name: Fetch latest data
+      - name: Fetch latest data (multi-source)
         run: |
-          echo "📡 Running data fetcher..."
-          python scripts/fetch.py
+          echo "📡 Running fetch_all.py ..."
+          python scripts/fetch_all.py
 
       - name: Commit and push if changed
         run: |
           echo "🧩 Checking for updates..."
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add public/data/latest.json
           if git diff --cached --quiet; then
             echo "✅ No data changes, skip commit."
