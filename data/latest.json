@@ -1,5 +1,21 @@
 {
-  "generated_at": "2025-11-09T15:20:18.917452Z",
-  "note": "GitHub Actions will overwrite this file daily at 12:00 Beijing time.",
-  "items": []
+  "generated_at": "2025-11-11T02:23:46.177918Z",
+  "count": 1,
+  "items": [
+    {
+      "source": "ETH CDHI",
+      "region": "Switzerland",
+      "title": "Keynote by Prof. Mishra on Sensing, Sensemaking, and Receptivity: Building Human-Centered Digital Health Systems and Interventions, 9 October 2025",
+      "summary": "Thursday, 9 October 2025,  1.15 pm CET, Hybrid: University of St.Gallen, Dufourstrasse 40a, A 24-0-216 or ZOOM  About Prof. Dr. Varun Mishra Varun Mishra is an Assistant Professor at Northeastern University, with a joint appointment in the Khoury College of Computer Sciences and  [...]",
+      "link": "https://www.c4dhi.org/news/251009-keynote-prof-mishra-sensing-sensemaking-and-receptivity/",
+      "raw": "Keynote by Prof. Mishra on Sensing, Sensemaking, and Receptivity: Building Human-Centered Digital Health Systems and Interventions, 9 October 2025 Thursday, 9 October 2025,  1.15 pm CET, Hybrid: University of St.Gallen, Dufourstrasse 40a, A 24-0-216 or ZOOM  About Prof. Dr. Varun Mishra Varun Mishra is an Assistant Professor at Northeastern University, with a joint appointment in the Khoury College of Computer Sciences and  [...]",
+      "university": "ETH CDHI",
+      "funding": "",
+      "collaboration": "",
+      "deadline": "",
+      "profile_hits": "digital health",
+      "match_score": 40,
+      "match_reason": "Profile match: digital health"
+    }
+  ]
 }
