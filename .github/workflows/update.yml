@@ -39,7 +39,7 @@ jobs:
           git pull --rebase origin main
           git add public/data/latest.json
           git diff --quiet && echo "No changes" || git commit -m "chore: update latest.json"
-          git push
+          git push origin HEAD: main --force
 
   build-and-deploy:
     needs: update-data
