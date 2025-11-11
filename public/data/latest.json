@@ -1,21 +1,224 @@
 {
-  "generated_at": "2025-11-11T02:24:26.287301Z",
-  "count": 1,
+  "generated_at": "2025-11-11T02:55:14.061322+00:00",
+  "total_items": 6,
+  "by_source": {
+    "ETH CDHI": 6
+  },
+  "top10_new_or_updated": [
+    {
+      "id": "f6201d4a5ba1525ad83cfacbf409e89b",
+      "title": "Thesis Topic: Designing Sustainable Business Models for Adaptive Digital Health Platforms",
+      "link": "https://www.c4dhi.org/news/251014-thesis-sustainable-business-model-adaptive-dh-platforms/",
+      "description": "A Master's thesis topic is available at the Centre for Digital Health Interventions. CDHI Thesis Title: Designing Sustainable Business Models for Adaptive Digital Health Platforms: Balancing Scientific Discovery, Societal Impact, and Ethical Value Exchange Overview We are seeking a motivated Master’s student in business, [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "collab": [],
+      "score": 18,
+      "papers": [],
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "is_new": true
+    },
+    {
+      "id": "5bde6348a93e6e1f65a3c80987e2ff86",
+      "title": "Keynote by Dr. Kocaballi on Generative Turn in Design: Emerging Practices and Implications for Digital Health, 21 October 2025",
+      "link": "https://www.c4dhi.org/news/251021-keynote-by-dr-baki-kocaballi-on-generative-turn-in-design/",
+      "description": "Tuesday, 21 October 2025, 10 am CET ZOOM About Baki Kocaballi Baki Kocaballi is a Senior Lecturer at the University of Technology Sydney and an internationally recognised researcher specialising in conversational agents and generative AI. His research sits at the intersection of technology [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "university": "University",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "collab": [],
+      "score": 10,
+      "papers": [],
+      "summary": "University | Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "is_new": true
+    },
+    {
+      "id": "11a4baf8d6c0d70d695b7a5337e2dd76",
+      "title": "Thesis Topic: Meta-Learning of Reward Representations for Predicting Mood Fluctuations in Mental Health",
+      "link": "https://www.c4dhi.org/news/251014-thesis-topic-meta-learning-rewards/",
+      "description": "A Master's thesis topic is available at the Centre for Digital Health Interventions.CDHI Thesis Title: Meta-Learning of Reward Representations for Predicting Mood Fluctuations in Mental Health: From Inverse Reinforcement Learning to Deep Sequence Models OverviewWe are seeking a motivated and hard-working Master’s student in computer science, engineering, [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "collab": [],
+      "score": 8,
+      "papers": [],
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "is_new": true
+    },
+    {
+      "id": "e4ab1511052fbcd3a8be540eab3a6a0a",
+      "title": "Join us at the SGED-SSED Annual Meeting, Lucerne, 13-14 Nov 2025",
+      "link": "https://www.c4dhi.org/news/2511-13-14-sged-ssed-annual-meeting-lucerne/",
+      "description": "We are excited to invite you to the Annual Meeting of the Swiss Society for Endocrinology and Diabetology (SGED-SSED) 2025, where science meets innovation in diabetes and endocrine health. Join us in Lucerne at the KKL, to explore the latest research in digital biomarkers in [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "collab": [],
+      "score": 0,
+      "papers": [],
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "is_new": true
+    },
+    {
+      "id": "b68d80a5bfeaabaa1e3621b133e839f1",
+      "title": "Join the Digital Women’s Health CORE Team at the 2025 Swiss Gender Medicine Symposium",
+      "link": "https://www.c4dhi.org/news/251014-swiss-gender-medicine-symposium/",
+      "description": "Join Prof. Dr. Marcia Nißen, PhD students Davinny Sou and Marinja Principe, and Master students Larissa Shuyin Moser-Chee and Gian Senpinar at the 2025 Swiss Gender Medicine Symposium, October 20 &amp; 21st, 2025, in Berne. As the first symposium of its kind in Switzerland, the symposium [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "university": "",
+      "supervisor": "Prof. Dr",
+      "keywords": [],
+      "collab": [],
+      "score": 0,
+      "papers": [],
+      "summary": "Supervisor: Prof. Dr | Funding: TBD | Deadline: Rolling",
+      "is_new": true
+    }
+  ],
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/251014-thesis-sustainable-business-model-adaptive-dh-platforms/\",\"ETH CDHI\"\n\"University\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/251021-keynote-by-dr-baki-kocaballi-on-generative-turn-in-design/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/251014-thesis-topic-meta-learning-rewards/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/2511-13-14-sged-ssed-annual-meeting-lucerne/\",\"ETH CDHI\"\n\"\",\"\",\"Prof. Dr\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/251014-swiss-gender-medicine-symposium/\",\"ETH CDHI\"",
   "items": [
     {
+      "id": "f6201d4a5ba1525ad83cfacbf409e89b",
+      "title": "Thesis Topic: Designing Sustainable Business Models for Adaptive Digital Health Platforms",
+      "link": "https://www.c4dhi.org/news/251014-thesis-sustainable-business-model-adaptive-dh-platforms/",
+      "description": "A Master's thesis topic is available at the Centre for Digital Health Interventions. CDHI Thesis Title: Designing Sustainable Business Models for Adaptive Digital Health Platforms: Balancing Scientific Discovery, Societal Impact, and Ethical Value Exchange Overview We are seeking a motivated Master’s student in business, [...]",
       "source": "ETH CDHI",
-      "region": "Switzerland",
+      "social": false,
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "collab": [],
+      "score": 18,
+      "papers": [],
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "is_new": true
+    },
+    {
+      "id": "5bde6348a93e6e1f65a3c80987e2ff86",
+      "title": "Keynote by Dr. Kocaballi on Generative Turn in Design: Emerging Practices and Implications for Digital Health, 21 October 2025",
+      "link": "https://www.c4dhi.org/news/251021-keynote-by-dr-baki-kocaballi-on-generative-turn-in-design/",
+      "description": "Tuesday, 21 October 2025, 10 am CET ZOOM About Baki Kocaballi Baki Kocaballi is a Senior Lecturer at the University of Technology Sydney and an internationally recognised researcher specialising in conversational agents and generative AI. His research sits at the intersection of technology [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "university": "University",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "collab": [],
+      "score": 10,
+      "papers": [],
+      "summary": "University | Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "is_new": true
+    },
+    {
+      "id": "06861f1781d402f2e986064338155c28",
       "title": "Keynote by Prof. Mishra on Sensing, Sensemaking, and Receptivity: Building Human-Centered Digital Health Systems and Interventions, 9 October 2025",
-      "summary": "Thursday, 9 October 2025,  1.15 pm CET, Hybrid: University of St.Gallen, Dufourstrasse 40a, A 24-0-216 or ZOOM  About Prof. Dr. Varun Mishra Varun Mishra is an Assistant Professor at Northeastern University, with a joint appointment in the Khoury College of Computer Sciences and  [...]",
       "link": "https://www.c4dhi.org/news/251009-keynote-prof-mishra-sensing-sensemaking-and-receptivity/",
-      "raw": "Keynote by Prof. Mishra on Sensing, Sensemaking, and Receptivity: Building Human-Centered Digital Health Systems and Interventions, 9 October 2025 Thursday, 9 October 2025,  1.15 pm CET, Hybrid: University of St.Gallen, Dufourstrasse 40a, A 24-0-216 or ZOOM  About Prof. Dr. Varun Mishra Varun Mishra is an Assistant Professor at Northeastern University, with a joint appointment in the Khoury College of Computer Sciences and  [...]",
-      "university": "ETH CDHI",
-      "funding": "",
-      "collaboration": "",
-      "deadline": "",
-      "profile_hits": "digital health",
-      "match_score": 40,
-      "match_reason": "Profile match: digital health"
+      "description": "Thursday, 9 October 2025, 1.15 pm CET, Hybrid: University of St.Gallen, Dufourstrasse 40a, A 24-0-216 or ZOOM About Prof. Dr. Varun Mishra Varun Mishra is an Assistant Professor at Northeastern University, with a joint appointment in the Khoury College of Computer Sciences and [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "university": "University",
+      "supervisor": "Prof. Dr",
+      "keywords": [
+        "digital health"
+      ],
+      "collab": [],
+      "score": 10,
+      "papers": [],
+      "summary": "University | Supervisor: Prof. Dr | Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "is_new": false
+    },
+    {
+      "id": "11a4baf8d6c0d70d695b7a5337e2dd76",
+      "title": "Thesis Topic: Meta-Learning of Reward Representations for Predicting Mood Fluctuations in Mental Health",
+      "link": "https://www.c4dhi.org/news/251014-thesis-topic-meta-learning-rewards/",
+      "description": "A Master's thesis topic is available at the Centre for Digital Health Interventions.CDHI Thesis Title: Meta-Learning of Reward Representations for Predicting Mood Fluctuations in Mental Health: From Inverse Reinforcement Learning to Deep Sequence Models OverviewWe are seeking a motivated and hard-working Master’s student in computer science, engineering, [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "collab": [],
+      "score": 8,
+      "papers": [],
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "is_new": true
+    },
+    {
+      "id": "e4ab1511052fbcd3a8be540eab3a6a0a",
+      "title": "Join us at the SGED-SSED Annual Meeting, Lucerne, 13-14 Nov 2025",
+      "link": "https://www.c4dhi.org/news/2511-13-14-sged-ssed-annual-meeting-lucerne/",
+      "description": "We are excited to invite you to the Annual Meeting of the Swiss Society for Endocrinology and Diabetology (SGED-SSED) 2025, where science meets innovation in diabetes and endocrine health. Join us in Lucerne at the KKL, to explore the latest research in digital biomarkers in [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "collab": [],
+      "score": 0,
+      "papers": [],
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "is_new": true
+    },
+    {
+      "id": "b68d80a5bfeaabaa1e3621b133e839f1",
+      "title": "Join the Digital Women’s Health CORE Team at the 2025 Swiss Gender Medicine Symposium",
+      "link": "https://www.c4dhi.org/news/251014-swiss-gender-medicine-symposium/",
+      "description": "Join Prof. Dr. Marcia Nißen, PhD students Davinny Sou and Marinja Principe, and Master students Larissa Shuyin Moser-Chee and Gian Senpinar at the 2025 Swiss Gender Medicine Symposium, October 20 &amp; 21st, 2025, in Berne. As the first symposium of its kind in Switzerland, the symposium [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "university": "",
+      "supervisor": "Prof. Dr",
+      "keywords": [],
+      "collab": [],
+      "score": 0,
+      "papers": [],
+      "summary": "Supervisor: Prof. Dr | Funding: TBD | Deadline: Rolling",
+      "is_new": true
     }
   ]
 }
