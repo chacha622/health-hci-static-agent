@@ -48,7 +48,7 @@ jobs:
             echo "🆕 Data changed, committing..."
             git commit -m "chore: update latest.json [auto]"
             echo "🚀 Pushing changes..."
-            git push origin HEAD: main --force
+            git push origin main --force
           fi
 
   build-and-deploy:
