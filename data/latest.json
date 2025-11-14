@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-11-12T04:22:47.145722+00:00",
-  "total_items": 9,
+  "generated_at": "2025-11-13T04:25:01.285422+00:00",
+  "total_items": 8,
   "by_source": {
-    "ETH CDHI": 9
+    "ETH CDHI": 8
   },
   "top10_new_or_updated": [
     {
@@ -48,29 +48,6 @@
       "score": 20,
       "summary": "University of Technology Sydney | Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University of Technology Sydney — digital health. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": false
-    },
-    {
-      "id": "06861f1781d402f2e986064338155c28",
-      "title": "Keynote by Prof. Mishra on Sensing, Sensemaking, and Receptivity: Building Human-Centered Digital Health Systems and Interventions, 9 October 2025",
-      "link": "https://www.c4dhi.org/news/251009-keynote-prof-mishra-sensing-sensemaking-and-receptivity/",
-      "description": "Thursday, 9 October 2025, 1.15 pm CET, Hybrid: University of St.Gallen, Dufourstrasse 40a, A 24-0-216 or ZOOM About Prof. Dr. Varun Mishra Varun Mishra is an Assistant Professor at Northeastern University, with a joint appointment in the Khoury College of Computer Sciences and [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "University of St",
-      "supervisor": "Prof. Dr",
-      "keywords": [
-        "digital health"
-      ],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 20,
-      "summary": "University of St | Supervisor: Prof. Dr | Keywords: digital health | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University of St — digital health. TBD. Prof. Dr. (ETH CDHI)",
       "papers": [],
       "is_new": false
     },
@@ -203,7 +180,7 @@
       "is_new": false
     }
   ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/251014-thesis-sustainable-business-model-adaptive-dh-platforms/\",\"ETH CDHI\"\n\"University of Technology Sydney\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/251021-keynote-by-dr-baki-kocaballi-on-generative-turn-in-design/\",\"ETH CDHI\"\n\"University of St\",\"\",\"Prof. Dr\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/251009-keynote-prof-mishra-sensing-sensemaking-and-receptivity/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/251014-thesis-topic-meta-learning-rewards/\",\"ETH CDHI\"\n\"ETH Zurich\",\"\",\"Dr. Rafael\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/cdhi-meets-eth-zurichs-digital-einstein-zurich-6-nov-2025/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/1109-recap-umzh-pdtx-summer-school-2025-zurich/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/2511-13-14-sged-ssed-annual-meeting-lucerne/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/thesis-topic-glow-up/\",\"ETH CDHI\"\n\"\",\"\",\"Prof. Dr\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/251014-swiss-gender-medicine-symposium/\",\"ETH CDHI\"",
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/251014-thesis-sustainable-business-model-adaptive-dh-platforms/\",\"ETH CDHI\"\n\"University of Technology Sydney\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/251021-keynote-by-dr-baki-kocaballi-on-generative-turn-in-design/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/251014-thesis-topic-meta-learning-rewards/\",\"ETH CDHI\"\n\"ETH Zurich\",\"\",\"Dr. Rafael\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/cdhi-meets-eth-zurichs-digital-einstein-zurich-6-nov-2025/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/1109-recap-umzh-pdtx-summer-school-2025-zurich/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/2511-13-14-sged-ssed-annual-meeting-lucerne/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/thesis-topic-glow-up/\",\"ETH CDHI\"\n\"\",\"\",\"Prof. Dr\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/251014-swiss-gender-medicine-symposium/\",\"ETH CDHI\"",
   "items": [
     {
       "id": "f6201d4a5ba1525ad83cfacbf409e89b",
@@ -248,29 +225,6 @@
       "score": 20,
       "summary": "University of Technology Sydney | Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University of Technology Sydney — digital health. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": false
-    },
-    {
-      "id": "06861f1781d402f2e986064338155c28",
-      "title": "Keynote by Prof. Mishra on Sensing, Sensemaking, and Receptivity: Building Human-Centered Digital Health Systems and Interventions, 9 October 2025",
-      "link": "https://www.c4dhi.org/news/251009-keynote-prof-mishra-sensing-sensemaking-and-receptivity/",
-      "description": "Thursday, 9 October 2025, 1.15 pm CET, Hybrid: University of St.Gallen, Dufourstrasse 40a, A 24-0-216 or ZOOM About Prof. Dr. Varun Mishra Varun Mishra is an Assistant Professor at Northeastern University, with a joint appointment in the Khoury College of Computer Sciences and [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "University of St",
-      "supervisor": "Prof. Dr",
-      "keywords": [
-        "digital health"
-      ],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 20,
-      "summary": "University of St | Supervisor: Prof. Dr | Keywords: digital health | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University of St — digital health. TBD. Prof. Dr. (ETH CDHI)",
       "papers": [],
       "is_new": false
     },
