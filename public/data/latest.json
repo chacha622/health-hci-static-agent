@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-12-05T04:29:04.588335+00:00",
-  "total_items": 8,
+  "generated_at": "2025-12-06T04:21:20.766867+00:00",
+  "total_items": 7,
   "by_source": {
-    "ETH CDHI": 8
+    "ETH CDHI": 7
   },
   "top10_new_or_updated": [
     {
@@ -153,30 +153,9 @@
       "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
       "is_new": false
-    },
-    {
-      "id": "b68d80a5bfeaabaa1e3621b133e839f1",
-      "title": "Join the Digital Women’s Health CORE Team at the 2025 Swiss Gender Medicine Symposium",
-      "link": "https://www.c4dhi.org/news/251014-swiss-gender-medicine-symposium/",
-      "description": "Join Prof. Dr. Marcia Nißen, PhD students Davinny Sou and Marinja Principe, and Master students Larissa Shuyin Moser-Chee and Gian Senpinar at the 2025 Swiss Gender Medicine Symposium, October 20 &amp; 21st, 2025, in Berne. As the first symposium of its kind in Switzerland, the symposium [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "",
-      "supervisor": "Prof. Dr",
-      "keywords": [],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 10,
-      "summary": "Supervisor: Prof. Dr | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — health HCI / digital health. TBD. Prof. Dr. (ETH CDHI)",
-      "papers": [],
-      "is_new": false
     }
   ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/a-warm-welcome-to-ceren-polat/\",\"ETH CDHI\"\n\"ETH Zurich\",\"\",\"Dr. Rafael\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/cdhi-meets-eth-zurichs-digital-einstein-zurich-6-nov-2025/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/second-umzh-precision-digital-therapeutics-summer-school-2026/\",\"ETH CDHI\"\n\"\",\"\",\"Prof. Dr\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/12112025-join-prof-nissen-www-summit/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/1109-recap-umzh-pdtx-summer-school-2025-zurich/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/2511-13-14-sged-ssed-annual-meeting-lucerne/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/thesis-topic-glow-up/\",\"ETH CDHI\"\n\"\",\"\",\"Prof. Dr\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/251014-swiss-gender-medicine-symposium/\",\"ETH CDHI\"",
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/a-warm-welcome-to-ceren-polat/\",\"ETH CDHI\"\n\"ETH Zurich\",\"\",\"Dr. Rafael\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/cdhi-meets-eth-zurichs-digital-einstein-zurich-6-nov-2025/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/second-umzh-precision-digital-therapeutics-summer-school-2026/\",\"ETH CDHI\"\n\"\",\"\",\"Prof. Dr\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/12112025-join-prof-nissen-www-summit/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/1109-recap-umzh-pdtx-summer-school-2025-zurich/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/2511-13-14-sged-ssed-annual-meeting-lucerne/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/thesis-topic-glow-up/\",\"ETH CDHI\"",
   "items": [
     {
       "id": "f47a9b4964417b37cef5be5d91490daa",
@@ -324,27 +303,6 @@
       "score": 10,
       "summary": "Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": false
-    },
-    {
-      "id": "b68d80a5bfeaabaa1e3621b133e839f1",
-      "title": "Join the Digital Women’s Health CORE Team at the 2025 Swiss Gender Medicine Symposium",
-      "link": "https://www.c4dhi.org/news/251014-swiss-gender-medicine-symposium/",
-      "description": "Join Prof. Dr. Marcia Nißen, PhD students Davinny Sou and Marinja Principe, and Master students Larissa Shuyin Moser-Chee and Gian Senpinar at the 2025 Swiss Gender Medicine Symposium, October 20 &amp; 21st, 2025, in Berne. As the first symposium of its kind in Switzerland, the symposium [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "",
-      "supervisor": "Prof. Dr",
-      "keywords": [],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 10,
-      "summary": "Supervisor: Prof. Dr | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — health HCI / digital health. TBD. Prof. Dr. (ETH CDHI)",
       "papers": [],
       "is_new": false
     }
