@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-01-02T04:40:08.722968+00:00",
+  "generated_at": "2026-01-03T04:31:40.532299+00:00",
   "total_items": 9,
   "by_source": {
     "ETH CDHI": 9
   },
   "top10_new_or_updated": [
     {
-      "id": "8d1f5899c4ebda0c553a432bb3cd39b7",
-      "title": "A warm welcome to Selina Scherrer",
-      "link": "https://www.c4dhi.org/news/260102-warm-welcome-selina-scherrer/",
-      "description": "Please join us in welcoming Selina Scherrer at the Institute for Implementation Science in Health Care (Team Digital Health Interventions), University of Zurich, and the Centre for Digital Health Interventions, where she will support the work on the University Medicine Zurich (UMZH) technology initiative PRECIOUS, [...]",
+      "id": "15ca217034d1dca9889ffd690f2aee68",
+      "title": "A warm welcome to Hannes Dörting",
+      "link": "https://www.c4dhi.org/news/260102-welcome-hannes-doerting/",
+      "description": "We are delighted to welcome Hannes Dörting at the Institute for Implementation Science in Health Care (Team Digital Health Interventions), University of Zurich, and the Centre for Digital Health Interventions. He will be joining Prof. Dr. Tobias Kowatsch to support the project ELIAS, an Agentic [...]",
       "source": "ETH CDHI",
       "social": false,
       "university": "University of Zurich",
-      "supervisor": "",
+      "supervisor": "Prof. Dr",
       "keywords": [
         "digital health"
       ],
@@ -25,13 +25,38 @@
       "eligibility": "",
       "location": "",
       "score": 18,
-      "summary": "University of Zurich | Keywords: digital health | Funding: TBD | Collab: institute | Deadline: Rolling",
-      "ai_summary": "PhD at University of Zurich — digital health. TBD; collaboration with institute. Supervisor TBD. (ETH CDHI)",
+      "summary": "University of Zurich | Supervisor: Prof. Dr | Keywords: digital health | Funding: TBD | Collab: institute | Deadline: Rolling",
+      "ai_summary": "PhD at University of Zurich — digital health. TBD; collaboration with institute. Prof. Dr. (ETH CDHI)",
+      "papers": [],
+      "is_new": true
+    },
+    {
+      "id": "0993fdf346a553e7bd83504902190454",
+      "title": "A warm welcome to Dr. Samantha Weber",
+      "link": "https://www.c4dhi.org/news/260101-welcome-dr-samantha-weber/",
+      "description": "We are happy to welcome Dr. Samantha Weber at the Institute for Implementation Science in Health Care (Team Digital Health Interventions), University of Zurich, and the Centre for Digital Health Interventions, where she will support the work on the University Medicine Zurich (UMZH) technology initiative [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of Zurich",
+      "supervisor": "Dr. Samantha",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [
+        "institute"
+      ],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "University of Zurich | Supervisor: Dr. Samantha | Keywords: digital health | Funding: TBD | Collab: institute | Deadline: Rolling",
+      "ai_summary": "PhD at University of Zurich — digital health. TBD; collaboration with institute. Dr. Samantha. (ETH CDHI)",
       "papers": [],
       "is_new": true
     }
   ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"University of Zurich\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260102-warm-welcome-selina-scherrer/\",\"ETH CDHI\"",
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"University of Zurich\",\"\",\"Prof. Dr\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260102-welcome-hannes-doerting/\",\"ETH CDHI\"\n\"University of Zurich\",\"\",\"Dr. Samantha\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260101-welcome-dr-samantha-weber/\",\"ETH CDHI\"",
   "items": [
     {
       "id": "1304f9216c4eabf195230217ff9257db",
@@ -99,29 +124,6 @@
       "is_new": false
     },
     {
-      "id": "8189a6a08fdc6ad81a981a70602a79e3",
-      "title": "A warm welcome to Arda Bariş Başaran!",
-      "link": "https://www.c4dhi.org/news/111225-a-warm-welcome-to-arda-baris-basaran/",
-      "description": "Please join us in welcoming Arda Bariş Başaran to the Centre for Digital Health Interventions! Arda is a doctoral researcher at ETH Zurich, working at ADAMMA within the Center for Digital Health Interventions. His current work includes contributing to the development of a smart health [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "ETH Zurich",
-      "supervisor": "",
-      "keywords": [
-        "digital health"
-      ],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 23,
-      "summary": "ETH Zurich | Keywords: digital health | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at ETH Zurich — digital health. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": false
-    },
-    {
       "id": "88e3988900880dff9e9ea181c20951e1",
       "title": "2 Full Stack Engineers (80–100%), University of Zurich: AI Agent Systems for Digital Therapeutics and Clinical Trials",
       "link": "https://www.c4dhi.org/news/251224-software-engineer-llm-based-agentic-dtx-design-trial-services-uzh/",
@@ -147,6 +149,56 @@
       "is_new": false
     },
     {
+      "id": "15ca217034d1dca9889ffd690f2aee68",
+      "title": "A warm welcome to Hannes Dörting",
+      "link": "https://www.c4dhi.org/news/260102-welcome-hannes-doerting/",
+      "description": "We are delighted to welcome Hannes Dörting at the Institute for Implementation Science in Health Care (Team Digital Health Interventions), University of Zurich, and the Centre for Digital Health Interventions. He will be joining Prof. Dr. Tobias Kowatsch to support the project ELIAS, an Agentic [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of Zurich",
+      "supervisor": "Prof. Dr",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [
+        "institute"
+      ],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "University of Zurich | Supervisor: Prof. Dr | Keywords: digital health | Funding: TBD | Collab: institute | Deadline: Rolling",
+      "ai_summary": "PhD at University of Zurich — digital health. TBD; collaboration with institute. Prof. Dr. (ETH CDHI)",
+      "papers": [],
+      "is_new": true
+    },
+    {
+      "id": "0993fdf346a553e7bd83504902190454",
+      "title": "A warm welcome to Dr. Samantha Weber",
+      "link": "https://www.c4dhi.org/news/260101-welcome-dr-samantha-weber/",
+      "description": "We are happy to welcome Dr. Samantha Weber at the Institute for Implementation Science in Health Care (Team Digital Health Interventions), University of Zurich, and the Centre for Digital Health Interventions, where she will support the work on the University Medicine Zurich (UMZH) technology initiative [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of Zurich",
+      "supervisor": "Dr. Samantha",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [
+        "institute"
+      ],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "University of Zurich | Supervisor: Dr. Samantha | Keywords: digital health | Funding: TBD | Collab: institute | Deadline: Rolling",
+      "ai_summary": "PhD at University of Zurich — digital health. TBD; collaboration with institute. Dr. Samantha. (ETH CDHI)",
+      "papers": [],
+      "is_new": true
+    },
+    {
       "id": "8d1f5899c4ebda0c553a432bb3cd39b7",
       "title": "A warm welcome to Selina Scherrer",
       "link": "https://www.c4dhi.org/news/260102-warm-welcome-selina-scherrer/",
@@ -169,7 +221,7 @@
       "summary": "University of Zurich | Keywords: digital health | Funding: TBD | Collab: institute | Deadline: Rolling",
       "ai_summary": "PhD at University of Zurich — digital health. TBD; collaboration with institute. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "594447aa54aed3502dbfa2ee6a40bbf7",
@@ -201,27 +253,6 @@
       "title": "CDHI at the Joint International Conference on Serious Games",
       "link": "https://www.c4dhi.org/news/151225-cdhi-joint-int-conf-serious-games/",
       "description": "Nadja Ging-Jehli, PhD (Core Director for Adaptive Intelligence and Mental Health Mechanisms at CDHI) gave an invited talk at the Joint International Conference on Serious Games, where she introduced her new platform, Gearshift Fellowship. It is a next-generation Supertask paradigm that integrates serious gaming with computational neuroscience, [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "",
-      "supervisor": "",
-      "keywords": [],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 10,
-      "summary": "Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": false
-    },
-    {
-      "id": "aa3776ad455b9840745ae891c528c10a",
-      "title": "UMZH Precision Digital Therapeutics Summer School, 17-21 August 2026, Zurich",
-      "link": "https://www.c4dhi.org/news/second-umzh-precision-digital-therapeutics-summer-school-2026/",
-      "description": "What are Precision Digital Therapeutics (PDTx)? How are PDTx designed, evaluated, implemented, scaled, and reimbursed? How can Generative AI make PDTx highly personalized? Digital Therapeutics (DTx) are software-based interventions to manage and treat disease. Precision DTx (PDTx) deliver hyper-personalized interventions at the most relevant and opportune moment [...]",
       "source": "ETH CDHI",
       "social": false,
       "university": "",
