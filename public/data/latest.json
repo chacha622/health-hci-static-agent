@@ -1,10 +1,100 @@
 {
-  "generated_at": "2026-01-03T04:31:40.532299+00:00",
+  "generated_at": "2026-01-04T04:48:16.671174+00:00",
   "total_items": 9,
   "by_source": {
     "ETH CDHI": 9
   },
   "top10_new_or_updated": [
+    {
+      "id": "1304f9216c4eabf195230217ff9257db",
+      "title": "PhD Position (100%) Agentic Adherence Promotion Interventions in Pediatric Digital Biomarker Studies",
+      "link": "https://www.c4dhi.org/news/251229-phd-position-agentic-adherence-promotion-pediatric-digital-biomarker-studies/",
+      "description": "PhD Position (100%) Agentic Adherence Promotion Interventions in Pediatric Digital Biomarker Studies We offer a fully funded PhD Position (100%, 4 years) at the School of Medicine and Institute of Technology Management, University of St. Gallen (HSG) on Agentic Interventions for the Promotion of Adherence to [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of St",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "Funded/Studentship/Stipend (detected)",
+      "deadline": "Rolling",
+      "collab": [
+        "institute"
+      ],
+      "eligibility": "",
+      "location": "",
+      "score": 25,
+      "summary": "University of St | Funding: Funded/Studentship/Stipend (detected) | Collab: institute | Deadline: Rolling",
+      "ai_summary": "PhD at University of St — health HCI / digital health. Funded/Studentship/Stipend (detected); collaboration with institute. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "43beb44c61892d181d16b619782b08ec",
+      "title": "PhD Position (100%) LLM-Agentic Digital Therapeutics for Healthy Longevity in Middle-aged and Older Adults",
+      "link": "https://www.c4dhi.org/news/251218-phd-position-llm-agentic-digital-therapeutics-middle-aged-older-adults/",
+      "description": "PhD Position (100%) LLM-Agentic Digital Therapeutics for Healthy Longevity in Middle-aged and Older Adults We are more than happy to offer a fully funded PhD Position (100%, 3.5 years) at the University of St. Gallen (HSG) on LLM-Agentic Digital Therapeutics for Healthy Longevity in Middle-aged and [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of St",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "Funded/Studentship/Stipend (detected)",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 25,
+      "summary": "University of St | Funding: Funded/Studentship/Stipend (detected) | Deadline: Rolling",
+      "ai_summary": "PhD at University of St — health HCI / digital health. Funded/Studentship/Stipend (detected). Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "d871f4166a9bdd51eea5ff99c7adb8ae",
+      "title": "PhD Position (100%) Business Models for Healthy Longevity and Scalable Disease Prevention",
+      "link": "https://www.c4dhi.org/news/251218-phd-position-business-models-for-healthy-longevity-scalable-disease-prevention/",
+      "description": "PhD Position (100%) Business Models for Healthy Longevity and Scalable Disease Prevention We are more than happy to offer a fully funded PhD Position (100%, 3.5 years) at the University of St. Gallen (HSG) on Business Models for Healthy Longevity and Scalable Disease Prevention with Type 2 [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of St",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "Funded/Studentship/Stipend (detected)",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 25,
+      "summary": "University of St | Funding: Funded/Studentship/Stipend (detected) | Deadline: Rolling",
+      "ai_summary": "PhD at University of St — health HCI / digital health. Funded/Studentship/Stipend (detected). Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "88e3988900880dff9e9ea181c20951e1",
+      "title": "2 Full Stack Engineers (80–100%), University of Zurich: AI Agent Systems for Digital Therapeutics and Clinical Trials",
+      "link": "https://www.c4dhi.org/news/251224-software-engineer-llm-based-agentic-dtx-design-trial-services-uzh/",
+      "description": "The digitization of everyday life creates new opportunities for healthcare innovation. Building on more than 15 years of research in designing and evaluating digital therapeutics (DTx, software-based interventions for prevention, management, and treatment of disease), we started to work on novel DTx Design &amp; Trial Services [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of Zurich",
+      "supervisor": "",
+      "keywords": [
+        "clinical"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [
+        "clinic"
+      ],
+      "eligibility": "",
+      "location": "",
+      "score": 20,
+      "summary": "University of Zurich | Keywords: clinical | Funding: TBD | Collab: clinic | Deadline: Rolling",
+      "ai_summary": "PhD at University of Zurich — clinical. TBD; collaboration with clinic. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
     {
       "id": "15ca217034d1dca9889ffd690f2aee68",
       "title": "A warm welcome to Hannes Dörting",
@@ -28,7 +118,7 @@
       "summary": "University of Zurich | Supervisor: Prof. Dr | Keywords: digital health | Funding: TBD | Collab: institute | Deadline: Rolling",
       "ai_summary": "PhD at University of Zurich — digital health. TBD; collaboration with institute. Prof. Dr. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "0993fdf346a553e7bd83504902190454",
@@ -53,10 +143,81 @@
       "summary": "University of Zurich | Supervisor: Dr. Samantha | Keywords: digital health | Funding: TBD | Collab: institute | Deadline: Rolling",
       "ai_summary": "PhD at University of Zurich — digital health. TBD; collaboration with institute. Dr. Samantha. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "8d1f5899c4ebda0c553a432bb3cd39b7",
+      "title": "A warm welcome to Selina Scherrer",
+      "link": "https://www.c4dhi.org/news/260102-warm-welcome-selina-scherrer/",
+      "description": "Please join us in welcoming Selina Scherrer at the Institute for Implementation Science in Health Care (Team Digital Health Interventions), University of Zurich, and the Centre for Digital Health Interventions, where she will support the work on the University Medicine Zurich (UMZH) technology initiative PRECIOUS, [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of Zurich",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [
+        "institute"
+      ],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "University of Zurich | Keywords: digital health | Funding: TBD | Collab: institute | Deadline: Rolling",
+      "ai_summary": "PhD at University of Zurich — digital health. TBD; collaboration with institute. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "594447aa54aed3502dbfa2ee6a40bbf7",
+      "title": "Davinny Sou and Marinja Principe attend Gender Medicine Winter School",
+      "link": "https://www.c4dhi.org/news/davinny-sou-and-marinja-principe-attend-gender-medicine-winter-school/",
+      "description": "CDHI Core Digital Women's Health members Davinny Sou, and Marinja Principe participated in the winter school “GenDeCT - Sex- and Gender-sensitive inclusive design of clinical trials” at Universität Bielefeld. The Winter School conveyed scientific and practical methods for closing the gender data gap in clinical trial design, [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "clinical"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [
+        "clinic"
+      ],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "Keywords: clinical | Funding: TBD | Collab: clinic | Deadline: Rolling",
+      "ai_summary": "PhD at University — clinical. TBD; collaboration with clinic. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "e85c8aa8f7fc848ea67aa7db0ea034fa",
+      "title": "CDHI at the Joint International Conference on Serious Games",
+      "link": "https://www.c4dhi.org/news/151225-cdhi-joint-int-conf-serious-games/",
+      "description": "Nadja Ging-Jehli, PhD (Core Director for Adaptive Intelligence and Mental Health Mechanisms at CDHI) gave an invited talk at the Joint International Conference on Serious Games, where she introduced her new platform, Gearshift Fellowship. It is a next-generation Supertask paradigm that integrates serious gaming with computational neuroscience, [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
     }
   ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"University of Zurich\",\"\",\"Prof. Dr\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260102-welcome-hannes-doerting/\",\"ETH CDHI\"\n\"University of Zurich\",\"\",\"Dr. Samantha\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260101-welcome-dr-samantha-weber/\",\"ETH CDHI\"",
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"University of St\",\"\",\"\",\"\",\"\",\"Funded/Studentship/Stipend (detected)\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/251229-phd-position-agentic-adherence-promotion-pediatric-digital-biomarker-studies/\",\"ETH CDHI\"\n\"University of St\",\"\",\"\",\"\",\"\",\"Funded/Studentship/Stipend (detected)\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/251218-phd-position-llm-agentic-digital-therapeutics-middle-aged-older-adults/\",\"ETH CDHI\"\n\"University of St\",\"\",\"\",\"\",\"\",\"Funded/Studentship/Stipend (detected)\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/251218-phd-position-business-models-for-healthy-longevity-scalable-disease-prevention/\",\"ETH CDHI\"\n\"University of Zurich\",\"\",\"\",\"clinical\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/251224-software-engineer-llm-based-agentic-dtx-design-trial-services-uzh/\",\"ETH CDHI\"\n\"University of Zurich\",\"\",\"Prof. Dr\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260102-welcome-hannes-doerting/\",\"ETH CDHI\"\n\"University of Zurich\",\"\",\"Dr. Samantha\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260101-welcome-dr-samantha-weber/\",\"ETH CDHI\"\n\"University of Zurich\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260102-warm-welcome-selina-scherrer/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"clinical\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/davinny-sou-and-marinja-principe-attend-gender-medicine-winter-school/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/151225-cdhi-joint-int-conf-serious-games/\",\"ETH CDHI\"",
   "items": [
     {
       "id": "1304f9216c4eabf195230217ff9257db",
@@ -171,7 +332,7 @@
       "summary": "University of Zurich | Supervisor: Prof. Dr | Keywords: digital health | Funding: TBD | Collab: institute | Deadline: Rolling",
       "ai_summary": "PhD at University of Zurich — digital health. TBD; collaboration with institute. Prof. Dr. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "0993fdf346a553e7bd83504902190454",
@@ -196,7 +357,7 @@
       "summary": "University of Zurich | Supervisor: Dr. Samantha | Keywords: digital health | Funding: TBD | Collab: institute | Deadline: Rolling",
       "ai_summary": "PhD at University of Zurich — digital health. TBD; collaboration with institute. Dr. Samantha. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8d1f5899c4ebda0c553a432bb3cd39b7",
