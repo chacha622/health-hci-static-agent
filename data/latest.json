@@ -1,58 +1,54 @@
 {
-  "generated_at": "2026-01-09T04:39:33.276674+00:00",
+  "generated_at": "2026-01-10T04:32:51.789998+00:00",
   "total_items": 10,
   "by_source": {
     "ETH CDHI": 10
   },
   "top10_new_or_updated": [
     {
-      "id": "493e27fcc9355a72aecc106d6f3f7e05",
-      "title": "A warm welcome to Christoph Karl Heck",
-      "link": "https://www.c4dhi.org/news/06012025-a-warm-welcome-to-christoph-karl-heck/",
-      "description": "We are delighted to welcome Christoph Karl Heck as a PhD student at the Centre for Digital Health Interventions (CDHI) at ETH Zürich, as part of the Core Digital Biomarkers in Driver Health and Safety, working on the Revelio study. His focus is detecting cannabis-impaired [...]",
+      "id": "2ec6c5abe636cb6a2e58bd62291ed7e0",
+      "title": "REVELIO Study on driving under the influence of cannabis is recruiting participants",
+      "link": "https://www.c4dhi.org/news/090126-revelio-participant-recruitment/",
+      "description": "The REVELIO Study, a project out of CDHI's Core for Digital Biomarkers in Driver Health and Safety, is recruiting participants. Background of the study: People who regularly consume cannabis have elevated blood concentrations of THC for days after the consumation. Due to a zero tolerance regulation, they [...]",
       "source": "ETH CDHI",
       "social": false,
-      "university": "",
+      "university": "UiT",
       "supervisor": "",
-      "keywords": [
-        "digital health"
-      ],
+      "keywords": [],
       "funding": "TBD",
       "deadline": "Rolling",
       "collab": [],
       "eligibility": "",
       "location": "",
-      "score": 18,
-      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "score": 10,
+      "summary": "UiT | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at UiT — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
       "is_new": true
     },
     {
-      "id": "429c2351ce5daa3007a06b5b9db46546",
-      "title": "A warm welcome to Michal Bechny",
-      "link": "https://www.c4dhi.org/news/08012026-a-warm-welcome-to-michal-bechny/",
-      "description": "We are delighted to welcome Michal Bechny as a postdoctoral researcher to the Centre for Digital Health Interventions (CDHI) at ETH Zürich, as part of the Core Digital Biomarkers in Driver Health and Safety. His focus is applied machine learning for detecting driving impairment and [...]",
+      "id": "6bc6ed446466752d01fd88f5d0d2eebd",
+      "title": "Join the Core for Adaptive Intelligence and Mental Health at the ACNP Annual Meeting",
+      "link": "https://www.c4dhi.org/news/090126-join-us-acnp-2026/",
+      "description": "We are delighted to share that Nadja Ging-Jehli, PhD (Core Director for Adaptive Intelligence and Mental Health Mechanisms at CDHI) has been awarded a Travel Award from the American College of Neuropsychopharmacology (ACNP) to attend the 2026 ACNP Annual Meeting. The award recognizes outstanding early-career researchers whose [...]",
       "source": "ETH CDHI",
       "social": false,
       "university": "",
       "supervisor": "",
-      "keywords": [
-        "digital health"
-      ],
+      "keywords": [],
       "funding": "TBD",
       "deadline": "Rolling",
       "collab": [],
       "eligibility": "",
       "location": "",
-      "score": 18,
-      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
       "is_new": true
     }
   ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/06012025-a-warm-welcome-to-christoph-karl-heck/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/08012026-a-warm-welcome-to-michal-bechny/\",\"ETH CDHI\"",
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"UiT\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/090126-revelio-participant-recruitment/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/090126-join-us-acnp-2026/\",\"ETH CDHI\"",
   "items": [
     {
       "id": "844bc7e4728e2ce19ae3c18c56427318",
@@ -95,48 +91,6 @@
       "score": 25,
       "summary": "University of St | Funding: Funded/Studentship/Stipend (detected) | Collab: institute | Deadline: Rolling",
       "ai_summary": "PhD at University of St — health HCI / digital health. Funded/Studentship/Stipend (detected); collaboration with institute. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": false
-    },
-    {
-      "id": "43beb44c61892d181d16b619782b08ec",
-      "title": "PhD Position (100%) LLM-Agentic Digital Therapeutics for Healthy Longevity in Middle-aged and Older Adults",
-      "link": "https://www.c4dhi.org/news/251218-phd-position-llm-agentic-digital-therapeutics-middle-aged-older-adults/",
-      "description": "PhD Position (100%) LLM-Agentic Digital Therapeutics for Healthy Longevity in Middle-aged and Older Adults We are more than happy to offer a fully funded PhD Position (100%, 3.5 years) at the University of St. Gallen (HSG) on LLM-Agentic Digital Therapeutics for Healthy Longevity in Middle-aged and [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "University of St",
-      "supervisor": "",
-      "keywords": [],
-      "funding": "Funded/Studentship/Stipend (detected)",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 25,
-      "summary": "University of St | Funding: Funded/Studentship/Stipend (detected) | Deadline: Rolling",
-      "ai_summary": "PhD at University of St — health HCI / digital health. Funded/Studentship/Stipend (detected). Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": false
-    },
-    {
-      "id": "d871f4166a9bdd51eea5ff99c7adb8ae",
-      "title": "PhD Position (100%) Business Models for Healthy Longevity and Scalable Disease Prevention",
-      "link": "https://www.c4dhi.org/news/251218-phd-position-business-models-for-healthy-longevity-scalable-disease-prevention/",
-      "description": "PhD Position (100%) Business Models for Healthy Longevity and Scalable Disease Prevention We are more than happy to offer a fully funded PhD Position (100%, 3.5 years) at the University of St. Gallen (HSG) on Business Models for Healthy Longevity and Scalable Disease Prevention with Type 2 [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "University of St",
-      "supervisor": "",
-      "keywords": [],
-      "funding": "Funded/Studentship/Stipend (detected)",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 25,
-      "summary": "University of St | Funding: Funded/Studentship/Stipend (detected) | Deadline: Rolling",
-      "ai_summary": "PhD at University of St — health HCI / digital health. Funded/Studentship/Stipend (detected). Supervisor TBD. (ETH CDHI)",
       "papers": [],
       "is_new": false
     },
@@ -186,7 +140,7 @@
       "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "429c2351ce5daa3007a06b5b9db46546",
@@ -209,7 +163,7 @@
       "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "15ca217034d1dca9889ffd690f2aee68",
@@ -285,6 +239,48 @@
       "ai_summary": "PhD at University of Zurich — digital health. TBD; collaboration with institute. Supervisor TBD. (ETH CDHI)",
       "papers": [],
       "is_new": false
+    },
+    {
+      "id": "2ec6c5abe636cb6a2e58bd62291ed7e0",
+      "title": "REVELIO Study on driving under the influence of cannabis is recruiting participants",
+      "link": "https://www.c4dhi.org/news/090126-revelio-participant-recruitment/",
+      "description": "The REVELIO Study, a project out of CDHI's Core for Digital Biomarkers in Driver Health and Safety, is recruiting participants. Background of the study: People who regularly consume cannabis have elevated blood concentrations of THC for days after the consumation. Due to a zero tolerance regulation, they [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "UiT",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "UiT | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at UiT — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": true
+    },
+    {
+      "id": "6bc6ed446466752d01fd88f5d0d2eebd",
+      "title": "Join the Core for Adaptive Intelligence and Mental Health at the ACNP Annual Meeting",
+      "link": "https://www.c4dhi.org/news/090126-join-us-acnp-2026/",
+      "description": "We are delighted to share that Nadja Ging-Jehli, PhD (Core Director for Adaptive Intelligence and Mental Health Mechanisms at CDHI) has been awarded a Travel Award from the American College of Neuropsychopharmacology (ACNP) to attend the 2026 ACNP Annual Meeting. The award recognizes outstanding early-career researchers whose [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": true
     }
   ]
 }
