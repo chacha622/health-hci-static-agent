@@ -1,10 +1,31 @@
 {
-  "generated_at": "2026-01-25T04:51:52.256447+00:00",
+  "generated_at": "2026-01-26T04:55:10.765092+00:00",
   "total_items": 9,
   "by_source": {
     "ETH CDHI": 9
   },
   "top10_new_or_updated": [
+    {
+      "id": "844bc7e4728e2ce19ae3c18c56427318",
+      "title": "PhD Position (100%) LLM-Agentic Digital Therapeutics for Healthy Longevity in (Perimenopausal) Women",
+      "link": "https://www.c4dhi.org/news/phd-position-100-llm-agentic-digital-therapeutics-for-healthy-longevity-in-perimenopausal-women/",
+      "description": "PhD Position (100%) LLM-Agentic Digital Therapeutics for Healthy Longevity in Perimenopausal Women We are more than happy to offer a fully funded PhD Position (100%, 3.5 years) at the University of St. Gallen (HSG) on LLM-Agentic Digital Therapeutics for Healthy Longevity in perimenopausal women, exploring how [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of St",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "Funded/Studentship/Stipend (detected)",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 25,
+      "summary": "University of St | Funding: Funded/Studentship/Stipend (detected) | Deadline: Rolling",
+      "ai_summary": "PhD at University of St — health HCI / digital health. Funded/Studentship/Stipend (detected). Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
     {
       "id": "f699aa6ea6983f111401c7a1d787d550",
       "title": "CHI 2026 Workshop: Call for Submissions on Digital Health Engagement (Due 12 Feb)",
@@ -26,10 +47,169 @@
       "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "493e27fcc9355a72aecc106d6f3f7e05",
+      "title": "A warm welcome to Christoph Karl Heck",
+      "link": "https://www.c4dhi.org/news/06012025-a-warm-welcome-to-christoph-karl-heck/",
+      "description": "We are delighted to welcome Christoph Karl Heck as a PhD student at the Centre for Digital Health Interventions (CDHI) at ETH Zürich, as part of the Core Digital Biomarkers in Driver Health and Safety, working on the Revelio study. His focus is detecting cannabis-impaired [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "429c2351ce5daa3007a06b5b9db46546",
+      "title": "A warm welcome to Michal Bechny",
+      "link": "https://www.c4dhi.org/news/08012026-a-warm-welcome-to-michal-bechny/",
+      "description": "We are delighted to welcome Michal Bechny as a postdoctoral researcher to the Centre for Digital Health Interventions (CDHI) at ETH Zürich, as part of the Core Digital Biomarkers in Driver Health and Safety. His focus is applied machine learning for detecting driving impairment and [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "15ca217034d1dca9889ffd690f2aee68",
+      "title": "A warm welcome to Hannes Dörting",
+      "link": "https://www.c4dhi.org/news/260102-welcome-hannes-doerting/",
+      "description": "We are delighted to welcome Hannes Dörting at the Institute for Implementation Science in Health Care (Team Digital Health Interventions), University of Zurich, and the Centre for Digital Health Interventions. He will be joining Prof. Dr. Tobias Kowatsch to support the project ELIAS, an Agentic [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of Zurich",
+      "supervisor": "Prof. Dr",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [
+        "institute"
+      ],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "University of Zurich | Supervisor: Prof. Dr | Keywords: digital health | Funding: TBD | Collab: institute | Deadline: Rolling",
+      "ai_summary": "PhD at University of Zurich — digital health. TBD; collaboration with institute. Prof. Dr. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "0993fdf346a553e7bd83504902190454",
+      "title": "A warm welcome to Dr. Samantha Weber",
+      "link": "https://www.c4dhi.org/news/260101-welcome-dr-samantha-weber/",
+      "description": "We are happy to welcome Dr. Samantha Weber at the Institute for Implementation Science in Health Care (Team Digital Health Interventions), University of Zurich, and the Centre for Digital Health Interventions, where she will support the work on the University Medicine Zurich (UMZH) technology initiative [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of Zurich",
+      "supervisor": "Dr. Samantha",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [
+        "institute"
+      ],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "University of Zurich | Supervisor: Dr. Samantha | Keywords: digital health | Funding: TBD | Collab: institute | Deadline: Rolling",
+      "ai_summary": "PhD at University of Zurich — digital health. TBD; collaboration with institute. Dr. Samantha. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "23bbe14e08d9b9c9b6e0b470023ea96b",
+      "title": "Webinar: How to deliver safe and effective agentic health interventions?",
+      "link": "https://www.c4dhi.org/news/260116-webinar-how-to-deliver-safe-and-effective-agentic-health-interventions/",
+      "description": "Webinar: How to deliver safe and effective agentic health interventions? Agentic systems are quickly moving beyond “chat” toward interventions that can plan, personalize, monitor, and take actions across time. In Precision Digital Therapeutics (PDTx), that creates a unique bar: it is not enough to [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "2ec6c5abe636cb6a2e58bd62291ed7e0",
+      "title": "REVELIO Study on driving under the influence of cannabis is recruiting participants",
+      "link": "https://www.c4dhi.org/news/090126-revelio-participant-recruitment/",
+      "description": "The REVELIO Study, a project out of CDHI's Core for Digital Biomarkers in Driver Health and Safety, is recruiting participants. Background of the study: People who regularly consume cannabis have elevated blood concentrations of THC for days after the consumation. Due to a zero tolerance regulation, they [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "UiT",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "UiT | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at UiT — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "6bc6ed446466752d01fd88f5d0d2eebd",
+      "title": "Join the Core for Adaptive Intelligence and Mental Health at the ACNP Annual Meeting",
+      "link": "https://www.c4dhi.org/news/090126-join-us-acnp-2026/",
+      "description": "We are delighted to share that Nadja Ging-Jehli, PhD (Core Director for Adaptive Intelligence and Mental Health Mechanisms at CDHI) has been awarded a Travel Award from the American College of Neuropsychopharmacology (ACNP) to attend the 2026 ACNP Annual Meeting. The award recognizes outstanding early-career researchers whose [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
     }
   ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260124-cfs-chi-2026-workshop-on-engagement-digital-health-interventions/\",\"ETH CDHI\"",
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"University of St\",\"\",\"\",\"\",\"\",\"Funded/Studentship/Stipend (detected)\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/phd-position-100-llm-agentic-digital-therapeutics-for-healthy-longevity-in-perimenopausal-women/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260124-cfs-chi-2026-workshop-on-engagement-digital-health-interventions/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/06012025-a-warm-welcome-to-christoph-karl-heck/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/08012026-a-warm-welcome-to-michal-bechny/\",\"ETH CDHI\"\n\"University of Zurich\",\"\",\"Prof. Dr\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260102-welcome-hannes-doerting/\",\"ETH CDHI\"\n\"University of Zurich\",\"\",\"Dr. Samantha\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260101-welcome-dr-samantha-weber/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260116-webinar-how-to-deliver-safe-and-effective-agentic-health-interventions/\",\"ETH CDHI\"\n\"UiT\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/090126-revelio-participant-recruitment/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/090126-join-us-acnp-2026/\",\"ETH CDHI\"",
   "items": [
     {
       "id": "844bc7e4728e2ce19ae3c18c56427318",
@@ -73,7 +253,7 @@
       "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "493e27fcc9355a72aecc106d6f3f7e05",
