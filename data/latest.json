@@ -1,9 +1,8 @@
 {
-  "generated_at": "2026-02-25T05:21:59.535676+00:00",
-  "total_items": 11,
+  "generated_at": "2026-02-26T05:19:21.065267+00:00",
+  "total_items": 10,
   "by_source": {
-    "ETH CDHI": 10,
-    "SIGCHI": 1
+    "ETH CDHI": 10
   },
   "top10_new_or_updated": [
     {
@@ -450,27 +449,6 @@
       "score": 10,
       "summary": "Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": false
-    },
-    {
-      "id": "25bb398ee08c01e3d7f61800ec8aa04c",
-      "title": "Please attend our upcoming SIGCHI Town Hall, on Jan 16, 1:30pm UTC, where we will discuss the recent changes to the ACM Digital Library—the Basic and Premium versions—that were launched just prior to the launch of ACM Open on Jan 1. Full details: https://sigchi.org/events/sigchi-town-hall-jan-2026/",
-      "link": "https://nitter.net/sigchi/status/2011134482364207113#m",
-      "description": "Please attend our upcoming SIGCHI Town Hall, on Jan 16, 1:30pm UTC, where we will discuss the recent changes to the ACM Digital Library—the Basic and Premium versions—that were launched just prior to the launch of ACM Open on Jan 1. Full details: sigchi.org/events/sigchi-tow…",
-      "source": "SIGCHI",
-      "social": false,
-      "university": "",
-      "supervisor": "",
-      "keywords": [],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 10,
-      "summary": "Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (SIGCHI)",
       "papers": [],
       "is_new": false
     }
