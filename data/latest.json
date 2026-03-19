@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-03-17T05:21:01.209594+00:00",
-  "total_items": 11,
+  "generated_at": "2026-03-18T05:25:02.790706+00:00",
+  "total_items": 12,
   "by_source": {
     "ETH CDHI": 10,
-    "SIGCHI": 1
+    "SIGCHI": 2
   },
   "top10_new_or_updated": [
     {
-      "id": "7deb19b449fca7106229b28045b750a4",
-      "title": "University of Zurich Instagram Takeover at AlpCHI by Masters Student Madeleine Soukup",
-      "link": "https://www.c4dhi.org/news/20260316-alpchi-uzh-ig-takeover/",
-      "description": "Digital Women’s Health Core MSc student Madeleine Soukup recently demoed the latest version of the CyMe app at AlpCHI2026, and if her day wasn't full enough, she also found time to post about her experience on the University of Zürich's Instagram account. She kindly shared her experience with us: [...]",
-      "source": "ETH CDHI",
+      "id": "ef5d546b46e73a778ea188ded01ca08a",
+      "title": "Join our virtual Town Hall Preview on Mar 23, 7pm UTC!: https://sigchi.org/events/sigchi-town-hall-preview/. Given how much is in flux around us this year, this will be a space for members to raise concerns ahead of our annual town hall at CHI. We'll also get your input on initiatives we've been working on.",
+      "link": "https://nitter.net/sigchi/status/2033989232801284374#m",
+      "description": "Join our virtual Town Hall Preview on Mar 23, 7pm UTC!: sigchi.org/events/sigchi-tow… . Given how much is in flux around us this year, this will be a space for members to raise concerns ahead of our annual town hall at CHI. We'll also get your input on initiatives we've been working on.",
+      "source": "SIGCHI",
       "social": false,
-      "university": "University of Zurich",
+      "university": "",
       "supervisor": "",
       "keywords": [],
       "funding": "TBD",
@@ -22,13 +22,13 @@
       "eligibility": "",
       "location": "",
       "score": 10,
-      "summary": "University of Zurich | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University of Zurich — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (SIGCHI)",
       "papers": [],
       "is_new": true
     }
   ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"University of Zurich\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/20260316-alpchi-uzh-ig-takeover/\",\"ETH CDHI\"",
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://nitter.net/sigchi/status/2033989232801284374#m\",\"SIGCHI\"",
   "items": [
     {
       "id": "ca2ad0785013b87d50e684acb1448bad",
@@ -116,7 +116,7 @@
       "summary": "University of Zurich | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University of Zurich — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c322b97105657b5544a22c82d7caaf39",
@@ -249,6 +249,27 @@
       "ai_summary": "PhD at University — health HCI / digital health. TBD; collaboration with industry. Supervisor TBD. (ETH CDHI)",
       "papers": [],
       "is_new": false
+    },
+    {
+      "id": "ef5d546b46e73a778ea188ded01ca08a",
+      "title": "Join our virtual Town Hall Preview on Mar 23, 7pm UTC!: https://sigchi.org/events/sigchi-town-hall-preview/. Given how much is in flux around us this year, this will be a space for members to raise concerns ahead of our annual town hall at CHI. We'll also get your input on initiatives we've been working on.",
+      "link": "https://nitter.net/sigchi/status/2033989232801284374#m",
+      "description": "Join our virtual Town Hall Preview on Mar 23, 7pm UTC!: sigchi.org/events/sigchi-tow… . Given how much is in flux around us this year, this will be a space for members to raise concerns ahead of our annual town hall at CHI. We'll also get your input on initiatives we've been working on.",
+      "source": "SIGCHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (SIGCHI)",
+      "papers": [],
+      "is_new": true
     },
     {
       "id": "c8aeb20ccff7e1d4fb5f44487dbff1f6",
