@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T05:25:02.790706+00:00",
+  "generated_at": "2026-03-19T05:22:02.140057+00:00",
   "total_items": 12,
   "by_source": {
     "ETH CDHI": 10,
@@ -7,11 +7,11 @@
   },
   "top10_new_or_updated": [
     {
-      "id": "ef5d546b46e73a778ea188ded01ca08a",
-      "title": "Join our virtual Town Hall Preview on Mar 23, 7pm UTC!: https://sigchi.org/events/sigchi-town-hall-preview/. Given how much is in flux around us this year, this will be a space for members to raise concerns ahead of our annual town hall at CHI. We'll also get your input on initiatives we've been working on.",
-      "link": "https://nitter.net/sigchi/status/2033989232801284374#m",
-      "description": "Join our virtual Town Hall Preview on Mar 23, 7pm UTC!: sigchi.org/events/sigchi-tow… . Given how much is in flux around us this year, this will be a space for members to raise concerns ahead of our annual town hall at CHI. We'll also get your input on initiatives we've been working on.",
-      "source": "SIGCHI",
+      "id": "2dc775e698605ee783442606791c8323",
+      "title": "Cycles of Care: Bridging Medicine, Technology, Sociology, and Intersectional Design in Digital Women’s Health – A Workshop Series",
+      "link": "https://www.c4dhi.org/news/cycles-of-care/",
+      "description": "We are pleased to announce a spring workshop series at the UZH Digital Society Initiative's Health Community: Cycles of Care! Digital women’s health sits at the intersection of medicine, technology, sociology, and intersectionally feminist design. Yet, despite growing evidence of sex- and gender-specific differences, their integration [...]",
+      "source": "ETH CDHI",
       "social": false,
       "university": "",
       "supervisor": "",
@@ -23,36 +23,13 @@
       "location": "",
       "score": 10,
       "summary": "Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (SIGCHI)",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
       "is_new": true
     }
   ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://nitter.net/sigchi/status/2033989232801284374#m\",\"SIGCHI\"",
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/cycles-of-care/\",\"ETH CDHI\"",
   "items": [
-    {
-      "id": "ca2ad0785013b87d50e684acb1448bad",
-      "title": "Introducing eFICUS: A digital health intervention to improve Family health and self-care capacity in Intensive Care UnitS",
-      "link": "https://www.c4dhi.org/projects/260223-introducing-eficus-dhi-icu/",
-      "description": "Congratulations to the PRECIOUS team on successful funding of a new project to be built on the PRECIOUS platform for the Design and Trials of Precision Digital Therapeutics (PDTx): eFICUS, a digital health intervention to improve Family health and self-care capacity in Intensive Care UnitS. Using a human-centered [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "",
-      "supervisor": "",
-      "keywords": [
-        "digital health"
-      ],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 28,
-      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": false
-    },
     {
       "id": "919816f9699aae96d1b7c79dee163e5c",
       "title": "Keynote by Dipl.-Wi.-Inf. Weimann on Embodied Conversational Agents for Collecting Patient-Reported Data: Current Evidence and Future Perspectives on LLM-driven PROMs, March 6, 2026",
@@ -96,6 +73,27 @@
       "ai_summary": "PhD at ETH Zurich — health HCI / digital health. TBD. Dr Jacqueline. (ETH CDHI)",
       "papers": [],
       "is_new": false
+    },
+    {
+      "id": "2dc775e698605ee783442606791c8323",
+      "title": "Cycles of Care: Bridging Medicine, Technology, Sociology, and Intersectional Design in Digital Women’s Health – A Workshop Series",
+      "link": "https://www.c4dhi.org/news/cycles-of-care/",
+      "description": "We are pleased to announce a spring workshop series at the UZH Digital Society Initiative's Health Community: Cycles of Care! Digital women’s health sits at the intersection of medicine, technology, sociology, and intersectionally feminist design. Yet, despite growing evidence of sex- and gender-specific differences, their integration [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": true
     },
     {
       "id": "7deb19b449fca7106229b28045b750a4",
@@ -269,7 +267,7 @@
       "summary": "Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (SIGCHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c8aeb20ccff7e1d4fb5f44487dbff1f6",
