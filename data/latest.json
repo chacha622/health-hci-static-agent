@@ -1,9 +1,8 @@
 {
-  "generated_at": "2026-03-20T05:14:57.585492+00:00",
-  "total_items": 12,
+  "generated_at": "2026-03-21T05:05:39.335110+00:00",
+  "total_items": 10,
   "by_source": {
-    "ETH CDHI": 10,
-    "SIGCHI": 2
+    "ETH CDHI": 10
   },
   "top10_new_or_updated": [
     {
@@ -442,48 +441,6 @@
       "score": 10,
       "summary": "Funding: TBD | Collab: industry | Deadline: Rolling",
       "ai_summary": "PhD at University — health HCI / digital health. TBD; collaboration with industry. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": false
-    },
-    {
-      "id": "ef5d546b46e73a778ea188ded01ca08a",
-      "title": "Join our virtual Town Hall Preview on Mar 23, 7pm UTC!: https://sigchi.org/events/sigchi-town-hall-preview/. Given how much is in flux around us this year, this will be a space for members to raise concerns ahead of our annual town hall at CHI. We'll also get your input on initiatives we've been working on.",
-      "link": "https://nitter.net/sigchi/status/2033989232801284374#m",
-      "description": "Join our virtual Town Hall Preview on Mar 23, 7pm UTC!: sigchi.org/events/sigchi-tow… . Given how much is in flux around us this year, this will be a space for members to raise concerns ahead of our annual town hall at CHI. We'll also get your input on initiatives we've been working on.",
-      "source": "SIGCHI",
-      "social": false,
-      "university": "",
-      "supervisor": "",
-      "keywords": [],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 10,
-      "summary": "Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (SIGCHI)",
-      "papers": [],
-      "is_new": false
-    },
-    {
-      "id": "c8aeb20ccff7e1d4fb5f44487dbff1f6",
-      "title": "Following our Jan 2026 town hall to share feedback on the Digital Library (DL) with ACM, we invite members to read this CACM article on the evolution of the DL: https://cacm.acm.org/opinion/evolving-the-acm-digital-library/. The article lays out the rationale for changes, and further iteration that is underway.",
-      "link": "https://nitter.net/sigchi/status/2029755614717423781#m",
-      "description": "Following our Jan 2026 town hall to share feedback on the Digital Library (DL) with ACM, we invite members to read this CACM article on the evolution of the DL: cacm.acm.org/opinion/evolvin… . The article lays out the rationale for changes, and further iteration that is underway.",
-      "source": "SIGCHI",
-      "social": false,
-      "university": "",
-      "supervisor": "",
-      "keywords": [],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 10,
-      "summary": "Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (SIGCHI)",
       "papers": [],
       "is_new": false
     }
