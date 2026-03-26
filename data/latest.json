@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T05:22:26.726395+00:00",
+  "generated_at": "2026-03-25T05:22:35.678220+00:00",
   "total_items": 12,
   "by_source": {
     "ETH CDHI": 10,
@@ -72,27 +72,6 @@
       "is_new": false
     },
     {
-      "id": "7deb19b449fca7106229b28045b750a4",
-      "title": "University of Zurich Instagram Takeover at AlpCHI by Masters Student Madeleine Soukup",
-      "link": "https://www.c4dhi.org/news/20260316-alpchi-uzh-ig-takeover/",
-      "description": "Digital Women’s Health Core MSc student Madeleine Soukup recently demoed the latest version of the CyMe app at AlpCHI2026, and if her day wasn't full enough, she also found time to post about her experience on the University of Zürich's Instagram account. She kindly shared her experience with us: [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "University of Zurich",
-      "supervisor": "",
-      "keywords": [],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 10,
-      "summary": "University of Zurich | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University of Zurich — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": false
-    },
-    {
       "id": "c322b97105657b5544a22c82d7caaf39",
       "title": "Stellenausschreibung: Studienpflege / Study Nurse (ca. 5h/Woche)",
       "link": "https://www.c4dhi.org/news/stellenausschreibung-studienpflege-study-nurse-ca-5h-woche/",
@@ -110,6 +89,27 @@
       "score": 10,
       "summary": "Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "7deb19b449fca7106229b28045b750a4",
+      "title": "University of Zurich Instagram Takeover at AlpCHI by Masters Student Madeleine Soukup",
+      "link": "https://www.c4dhi.org/news/20260316-alpchi-uzh-ig-takeover/",
+      "description": "Digital Women’s Health Core MSc student Madeleine Soukup recently demoed the latest version of the CyMe app at AlpCHI2026, and if her day wasn't full enough, she also found time to post about her experience on the University of Zürich's Instagram account. She kindly shared her experience with us: [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of Zurich",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "University of Zurich | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University of Zurich — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
       "is_new": false
     },
@@ -225,7 +225,7 @@
       "is_new": false
     }
   ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"University of St\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260306-keynote-weimann-ca-llm-prom/\",\"ETH CDHI\"\n\"ETH Zurich\",\"\",\"Dr Jacqueline\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260323-keynote-jacqueline-mair-personalised-digital-coaching-interventions/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/cycles-of-care/\",\"ETH CDHI\"\n\"University of Zurich\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/20260316-alpchi-uzh-ig-takeover/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/stellenausschreibung-studienpflege-study-nurse-ca-5h-woche/\",\"ETH CDHI\"\n\"University of St\",\"\",\"Prof. Dr\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260325-keynote-stephen-gilbert-regulation-implementation-llms/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/research-assistant-t2d-praeventionsstudie/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260223-join-us-scale-it-up-advancing-digital-womens-health/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/projects/260223-adamma-core-care-preventive-babbi/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260223-join-the-core-for-digital-womens-health-at-alpchi-2026/\",\"ETH CDHI\"",
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"University of St\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260306-keynote-weimann-ca-llm-prom/\",\"ETH CDHI\"\n\"ETH Zurich\",\"\",\"Dr Jacqueline\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260323-keynote-jacqueline-mair-personalised-digital-coaching-interventions/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/cycles-of-care/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/stellenausschreibung-studienpflege-study-nurse-ca-5h-woche/\",\"ETH CDHI\"\n\"University of Zurich\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/20260316-alpchi-uzh-ig-takeover/\",\"ETH CDHI\"\n\"University of St\",\"\",\"Prof. Dr\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260325-keynote-stephen-gilbert-regulation-implementation-llms/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/research-assistant-t2d-praeventionsstudie/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260223-join-us-scale-it-up-advancing-digital-womens-health/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/projects/260223-adamma-core-care-preventive-babbi/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260223-join-the-core-for-digital-womens-health-at-alpchi-2026/\",\"ETH CDHI\"",
   "items": [
     {
       "id": "919816f9699aae96d1b7c79dee163e5c",
@@ -293,27 +293,6 @@
       "is_new": false
     },
     {
-      "id": "7deb19b449fca7106229b28045b750a4",
-      "title": "University of Zurich Instagram Takeover at AlpCHI by Masters Student Madeleine Soukup",
-      "link": "https://www.c4dhi.org/news/20260316-alpchi-uzh-ig-takeover/",
-      "description": "Digital Women’s Health Core MSc student Madeleine Soukup recently demoed the latest version of the CyMe app at AlpCHI2026, and if her day wasn't full enough, she also found time to post about her experience on the University of Zürich's Instagram account. She kindly shared her experience with us: [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "University of Zurich",
-      "supervisor": "",
-      "keywords": [],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 10,
-      "summary": "University of Zurich | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University of Zurich — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": false
-    },
-    {
       "id": "c322b97105657b5544a22c82d7caaf39",
       "title": "Stellenausschreibung: Studienpflege / Study Nurse (ca. 5h/Woche)",
       "link": "https://www.c4dhi.org/news/stellenausschreibung-studienpflege-study-nurse-ca-5h-woche/",
@@ -331,6 +310,27 @@
       "score": 10,
       "summary": "Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "7deb19b449fca7106229b28045b750a4",
+      "title": "University of Zurich Instagram Takeover at AlpCHI by Masters Student Madeleine Soukup",
+      "link": "https://www.c4dhi.org/news/20260316-alpchi-uzh-ig-takeover/",
+      "description": "Digital Women’s Health Core MSc student Madeleine Soukup recently demoed the latest version of the CyMe app at AlpCHI2026, and if her day wasn't full enough, she also found time to post about her experience on the University of Zürich's Instagram account. She kindly shared her experience with us: [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of Zurich",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "University of Zurich | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University of Zurich — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
       "is_new": false
     },
