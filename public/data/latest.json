@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T05:40:48.361258+00:00",
+  "generated_at": "2026-03-27T05:41:45.459602+00:00",
   "total_items": 12,
   "by_source": {
     "ETH CDHI": 10,
@@ -7,13 +7,13 @@
   },
   "top10_new_or_updated": [
     {
-      "id": "78f953a2debc2bb47d3fc3f27ee27020",
-      "title": "More Than Just A Period: Adolescent Menstrual Health Across Care Ecosystems",
-      "link": "https://www.c4dhi.org/projects/adolescent-menstrual-health/",
-      "description": "Understanding care, responsibility, and technology across the life course Women’s health is increasingly recognized as a fundamental human right, yet significant gaps remain in knowledge, literacy, and technological support, particularly around menstrual health (MH). While calls for a life-course approach emphasize adolescence as a formative period [...]",
+      "id": "ae7e10d8b851023af6ed1162ef4a0ef2",
+      "title": "Digital Therapeutics Project, Spring 2026, University of St.Gallen",
+      "link": "https://www.c4dhi.org/news/digital-therapeutics-project-spring-2026-hsg/",
+      "description": "To do no harm — and the most good — with AI in health care (Nature Medicine 2024), Digital Therapeutics from Bench to Bedside (npj Digital Medicine, 2023), Digital Therapeutics for Mental Health and Addiction (Elsevier 2023), Large Language Models in Medicine (Nature Medicine, 2023), How to [...]",
       "source": "ETH CDHI",
       "social": false,
-      "university": "",
+      "university": "University of St",
       "supervisor": "",
       "keywords": [],
       "funding": "TBD",
@@ -22,13 +22,13 @@
       "eligibility": "",
       "location": "",
       "score": 10,
-      "summary": "Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "summary": "University of St | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University of St — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
       "is_new": true
     }
   ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/projects/adolescent-menstrual-health/\",\"ETH CDHI\"",
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"University of St\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/digital-therapeutics-project-spring-2026-hsg/\",\"ETH CDHI\"",
   "items": [
     {
       "id": "919816f9699aae96d1b7c79dee163e5c",
@@ -75,6 +75,27 @@
       "is_new": false
     },
     {
+      "id": "ae7e10d8b851023af6ed1162ef4a0ef2",
+      "title": "Digital Therapeutics Project, Spring 2026, University of St.Gallen",
+      "link": "https://www.c4dhi.org/news/digital-therapeutics-project-spring-2026-hsg/",
+      "description": "To do no harm — and the most good — with AI in health care (Nature Medicine 2024), Digital Therapeutics from Bench to Bedside (npj Digital Medicine, 2023), Digital Therapeutics for Mental Health and Addiction (Elsevier 2023), Large Language Models in Medicine (Nature Medicine, 2023), How to [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of St",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "University of St | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University of St — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": true
+    },
+    {
       "id": "78f953a2debc2bb47d3fc3f27ee27020",
       "title": "More Than Just A Period: Adolescent Menstrual Health Across Care Ecosystems",
       "link": "https://www.c4dhi.org/projects/adolescent-menstrual-health/",
@@ -93,7 +114,7 @@
       "summary": "Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2dc775e698605ee783442606791c8323",
@@ -220,29 +241,6 @@
       "score": 10,
       "summary": "Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": false
-    },
-    {
-      "id": "efd84e6f01dca42c1850957d491ec91c",
-      "title": "Introducing BABBI: Biological Age Prediction based on Blood Biomarkers – A Comparative Study of Linear and Non-linear Predictive Models",
-      "link": "https://www.c4dhi.org/projects/260223-adamma-core-care-preventive-babbi/",
-      "description": "What if aging could be measured more meaningfully than by simply counting birthdays? The Core AI &amp; Digital Biomarker, Acoustic and Inflammatory Biomarkers (ADAMMA) is excited to announce a new research collaboration with CARE Preventive AG, focused on advancing biological age estimation and personalized approaches to healthy aging: Biological Age [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "",
-      "supervisor": "",
-      "keywords": [],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [
-        "collaboration"
-      ],
-      "eligibility": "",
-      "location": "",
-      "score": 10,
-      "summary": "Funding: TBD | Collab: collaboration | Deadline: Rolling",
-      "ai_summary": "PhD at University — health HCI / digital health. TBD; collaboration with collaboration. Supervisor TBD. (ETH CDHI)",
       "papers": [],
       "is_new": false
     },
