@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T06:26:09.074180+00:00",
+  "generated_at": "2026-05-01T06:35:16.666288+00:00",
   "total_items": 12,
   "by_source": {
     "ETH CDHI": 10,
@@ -51,10 +51,10 @@
       "is_new": false
     },
     {
-      "id": "621d2d31d4d5161dc493fb45a5d8678c",
-      "title": "CDHI Members at CHI 2026",
-      "link": "https://www.c4dhi.org/news/260421-cdhi-members-at-chi2026/",
-      "description": "CDHI member Lola Jo Ackermann presented two research posters at the CHI Conference on Human Factors in Computing Systems (CHI 2026) in Barcelona, Spain, one of the leading international conferences in the field of Human–Computer Interaction. Both projects explore how digital technologies can support breathing-based interventions designed [...]",
+      "id": "aa3776ad455b9840745ae891c528c10a",
+      "title": "UMZH Precision Digital Therapeutics Summer School, 17-21 August 2026, Zurich",
+      "link": "https://www.c4dhi.org/news/second-umzh-precision-digital-therapeutics-summer-school-2026/",
+      "description": "Background Information What are Precision Digital Therapeutics (PDTx)? How are PDTx designed, evaluated, implemented, scaled, and reimbursed? How can Generative AI make PDTx highly personalized? Digital Therapeutics (DTx) are software-based interventions to manage and treat disease. Precision DTx (PDTx) deliver hyper-personalized interventions at the most relevant and opportune [...]",
       "source": "ETH CDHI",
       "social": false,
       "university": "",
@@ -72,10 +72,10 @@
       "is_new": false
     },
     {
-      "id": "aa3776ad455b9840745ae891c528c10a",
-      "title": "UMZH Precision Digital Therapeutics Summer School, 17-21 August 2026, Zurich",
-      "link": "https://www.c4dhi.org/news/second-umzh-precision-digital-therapeutics-summer-school-2026/",
-      "description": "Background Information What are Precision Digital Therapeutics (PDTx)? How are PDTx designed, evaluated, implemented, scaled, and reimbursed? How can Generative AI make PDTx highly personalized? Digital Therapeutics (DTx) are software-based interventions to manage and treat disease. Precision DTx (PDTx) deliver hyper-personalized interventions at the most relevant and opportune [...]",
+      "id": "621d2d31d4d5161dc493fb45a5d8678c",
+      "title": "CDHI Members at CHI 2026",
+      "link": "https://www.c4dhi.org/news/260421-cdhi-members-at-chi2026/",
+      "description": "CDHI member Lola Jo Ackermann presented two research posters at the CHI Conference on Human Factors in Computing Systems (CHI 2026) in Barcelona, Spain, one of the leading international conferences in the field of Human–Computer Interaction. Both projects explore how digital technologies can support breathing-based interventions designed [...]",
       "source": "ETH CDHI",
       "social": false,
       "university": "",
@@ -221,7 +221,7 @@
       "is_new": false
     }
   ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"University of St\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260306-keynote-weimann-ca-llm-prom/\",\"ETH CDHI\"\n\"ETH Zurich\",\"\",\"Dr Jacqueline\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260323-keynote-jacqueline-mair-personalised-digital-coaching-interventions/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260421-cdhi-members-at-chi2026/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/second-umzh-precision-digital-therapeutics-summer-school-2026/\",\"ETH CDHI\"\n\"University of St\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/digital-therapeutics-project-spring-2026-hsg/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/projects/adolescent-menstrual-health/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/cycles-of-care/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/stellenausschreibung-studienpflege-study-nurse-ca-5h-woche/\",\"ETH CDHI\"\n\"University of Zurich\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/20260316-alpchi-uzh-ig-takeover/\",\"ETH CDHI\"\n\"University of St\",\"\",\"Prof. Dr\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260325-keynote-stephen-gilbert-regulation-implementation-llms/\",\"ETH CDHI\"",
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"University of St\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260306-keynote-weimann-ca-llm-prom/\",\"ETH CDHI\"\n\"ETH Zurich\",\"\",\"Dr Jacqueline\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260323-keynote-jacqueline-mair-personalised-digital-coaching-interventions/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/second-umzh-precision-digital-therapeutics-summer-school-2026/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260421-cdhi-members-at-chi2026/\",\"ETH CDHI\"\n\"University of St\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/digital-therapeutics-project-spring-2026-hsg/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/projects/adolescent-menstrual-health/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/cycles-of-care/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/stellenausschreibung-studienpflege-study-nurse-ca-5h-woche/\",\"ETH CDHI\"\n\"University of Zurich\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/20260316-alpchi-uzh-ig-takeover/\",\"ETH CDHI\"\n\"University of St\",\"\",\"Prof. Dr\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260325-keynote-stephen-gilbert-regulation-implementation-llms/\",\"ETH CDHI\"",
   "items": [
     {
       "id": "919816f9699aae96d1b7c79dee163e5c",
@@ -268,10 +268,10 @@
       "is_new": false
     },
     {
-      "id": "621d2d31d4d5161dc493fb45a5d8678c",
-      "title": "CDHI Members at CHI 2026",
-      "link": "https://www.c4dhi.org/news/260421-cdhi-members-at-chi2026/",
-      "description": "CDHI member Lola Jo Ackermann presented two research posters at the CHI Conference on Human Factors in Computing Systems (CHI 2026) in Barcelona, Spain, one of the leading international conferences in the field of Human–Computer Interaction. Both projects explore how digital technologies can support breathing-based interventions designed [...]",
+      "id": "aa3776ad455b9840745ae891c528c10a",
+      "title": "UMZH Precision Digital Therapeutics Summer School, 17-21 August 2026, Zurich",
+      "link": "https://www.c4dhi.org/news/second-umzh-precision-digital-therapeutics-summer-school-2026/",
+      "description": "Background Information What are Precision Digital Therapeutics (PDTx)? How are PDTx designed, evaluated, implemented, scaled, and reimbursed? How can Generative AI make PDTx highly personalized? Digital Therapeutics (DTx) are software-based interventions to manage and treat disease. Precision DTx (PDTx) deliver hyper-personalized interventions at the most relevant and opportune [...]",
       "source": "ETH CDHI",
       "social": false,
       "university": "",
@@ -289,10 +289,10 @@
       "is_new": false
     },
     {
-      "id": "aa3776ad455b9840745ae891c528c10a",
-      "title": "UMZH Precision Digital Therapeutics Summer School, 17-21 August 2026, Zurich",
-      "link": "https://www.c4dhi.org/news/second-umzh-precision-digital-therapeutics-summer-school-2026/",
-      "description": "Background Information What are Precision Digital Therapeutics (PDTx)? How are PDTx designed, evaluated, implemented, scaled, and reimbursed? How can Generative AI make PDTx highly personalized? Digital Therapeutics (DTx) are software-based interventions to manage and treat disease. Precision DTx (PDTx) deliver hyper-personalized interventions at the most relevant and opportune [...]",
+      "id": "621d2d31d4d5161dc493fb45a5d8678c",
+      "title": "CDHI Members at CHI 2026",
+      "link": "https://www.c4dhi.org/news/260421-cdhi-members-at-chi2026/",
+      "description": "CDHI member Lola Jo Ackermann presented two research posters at the CHI Conference on Human Factors in Computing Systems (CHI 2026) in Barcelona, Spain, one of the leading international conferences in the field of Human–Computer Interaction. Both projects explore how digital technologies can support breathing-based interventions designed [...]",
       "source": "ETH CDHI",
       "social": false,
       "university": "",
