@@ -1,34 +1,36 @@
 {
-  "generated_at": "2026-06-10T08:06:01.353477+00:00",
-  "total_items": 13,
+  "generated_at": "2026-06-11T08:45:55.844916+00:00",
+  "total_items": 14,
   "by_source": {
-    "ETH CDHI": 9,
+    "ETH CDHI": 10,
     "SIGCHI": 4
   },
   "top10_new_or_updated": [
     {
-      "id": "633c57c3c1edec46a5934e7a9cf3bbbc",
-      "title": "Keynote by Prof. Jason Block from Harvard Medical School on July 02",
-      "link": "https://www.c4dhi.org/news/260609-keynote-by-prof-jason-block-harvard/",
-      "description": "We are pleased to welcome Prof. Jason Block for a Keynote at the CDHI! 📅 Thursday, July 2 2026, 12:30 - 2:00 pm CET 📍ETH WEV H 326: Weinbergstrasse 56/58, Floor 'H' or 💻 Online (Please note, the door to Floor H opens by [...]",
+      "id": "934d772ce2e149a34d782b4495017617",
+      "title": "Keynote by Hauke Rienhoff fromOrthopy Medical GmbH",
+      "link": "https://www.c4dhi.org/news/260609-keynote-hauke-rienhoff/",
+      "description": "Last month, our CAS Digital Health: Therapeutics course had the pleasure of welcoming Hauke Rienhoff, Chief Commercial Officer of Orthopy Health GmbH who shared his learnings over the past 5 years as Orthopy went on a truly wild ride. He shared how Orthopy scaled by [...]",
       "source": "ETH CDHI",
       "social": false,
       "university": "",
-      "supervisor": "Prof. Jason",
-      "keywords": [],
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
       "funding": "TBD",
       "deadline": "Rolling",
       "collab": [],
       "eligibility": "",
       "location": "",
-      "score": 10,
-      "summary": "Supervisor: Prof. Jason | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — health HCI / digital health. TBD. Prof. Jason. (ETH CDHI)",
+      "score": 18,
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
       "is_new": true
     }
   ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"Prof. Jason\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260609-keynote-by-prof-jason-block-harvard/\",\"ETH CDHI\"",
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260609-keynote-hauke-rienhoff/\",\"ETH CDHI\"",
   "items": [
     {
       "id": "8bbb556157a78bf7e46c6bcf72a1b8ad",
@@ -75,6 +77,29 @@
       "ai_summary": "PhD at University — human-centered ai. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
       "is_new": false
+    },
+    {
+      "id": "934d772ce2e149a34d782b4495017617",
+      "title": "Keynote by Hauke Rienhoff fromOrthopy Medical GmbH",
+      "link": "https://www.c4dhi.org/news/260609-keynote-hauke-rienhoff/",
+      "description": "Last month, our CAS Digital Health: Therapeutics course had the pleasure of welcoming Hauke Rienhoff, Chief Commercial Officer of Orthopy Health GmbH who shared his learnings over the past 5 years as Orthopy went on a truly wild ride. He shared how Orthopy scaled by [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": true
     },
     {
       "id": "46ed390dd13479431f927c8d427a3229",
@@ -127,27 +152,6 @@
       "is_new": false
     },
     {
-      "id": "633c57c3c1edec46a5934e7a9cf3bbbc",
-      "title": "Keynote by Prof. Jason Block from Harvard Medical School on July 02",
-      "link": "https://www.c4dhi.org/news/260609-keynote-by-prof-jason-block-harvard/",
-      "description": "We are pleased to welcome Prof. Jason Block for a Keynote at the CDHI! 📅 Thursday, July 2 2026, 12:30 - 2:00 pm CET 📍ETH WEV H 326: Weinbergstrasse 56/58, Floor 'H' or 💻 Online (Please note, the door to Floor H opens by [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "",
-      "supervisor": "Prof. Jason",
-      "keywords": [],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 10,
-      "summary": "Supervisor: Prof. Jason | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — health HCI / digital health. TBD. Prof. Jason. (ETH CDHI)",
-      "papers": [],
-      "is_new": true
-    },
-    {
       "id": "aa3776ad455b9840745ae891c528c10a",
       "title": "2nd UMZH Precision Digital Therapeutics Summer School, 17-21 August 2026, Zurich",
       "link": "https://www.c4dhi.org/news/second-umzh-precision-digital-therapeutics-summer-school-2026/",
@@ -165,6 +169,27 @@
       "score": 10,
       "summary": "Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "633c57c3c1edec46a5934e7a9cf3bbbc",
+      "title": "Keynote by Prof. Jason Block from Harvard Medical School on July 02",
+      "link": "https://www.c4dhi.org/news/260609-keynote-by-prof-jason-block-harvard/",
+      "description": "We are pleased to welcome Prof. Jason Block for a Keynote at the CDHI! 📅 Thursday, July 2 2026, 12:30 - 2:00 pm CET 📍ETH WEV H 326: Weinbergstrasse 56/58, Floor 'H' or 💻 Online (Please note, the door to Floor H opens by [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "Prof. Jason",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Supervisor: Prof. Jason | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Prof. Jason. (ETH CDHI)",
       "papers": [],
       "is_new": false
     },
