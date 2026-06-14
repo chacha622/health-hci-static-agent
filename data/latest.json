@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T08:24:22.806612+00:00",
+  "generated_at": "2026-06-13T07:45:26.581908+00:00",
   "total_items": 14,
   "by_source": {
     "ETH CDHI": 10,
@@ -458,10 +458,10 @@
       "is_new": false
     },
     {
-      "id": "f9363e2d13bb2f426f0eac6d6b18c879",
-      "title": "We're welcoming 4 new SIGCHI-sponsored conferences! ACM Interactive Health is for work at the intersection of HCI and Health. IH will be in Porto, Portugal, July 5 - 8. There will be an online pre-conference event on June 1 and registration for it is free. https://ih.acm.org/",
-      "link": "https://nitter.net/sigchi/status/2060468949561565276#m",
-      "description": "We're welcoming 4 new SIGCHI-sponsored conferences! ACM Interactive Health is for work at the intersection of HCI and Health. IH will be in Porto, Portugal, July 5 - 8. There will be an online pre-conference event on June 1 and registration for it is free. ih.acm.org/",
+      "id": "d8f43dc509f09f268a8be3f7fd7f5bd0",
+      "title": "R to @sigchi: The Augmented Humans International Conference* focuses on physical, cognitive, and perceptual augmentation of humans through digital technologies. AH 2027 will take place in Sri Lanka. https://augmented-humans.org/",
+      "link": "https://nitter.net/sigchi/status/2060468956452753538#m",
+      "description": "The Augmented Humans International Conference* focuses on physical, cognitive, and perceptual augmentation of humans through digital technologies. AH 2027 will take place in Sri Lanka. augmented-humans.org/",
       "source": "SIGCHI",
       "social": false,
       "university": "",
@@ -479,10 +479,10 @@
       "is_new": false
     },
     {
-      "id": "d8f43dc509f09f268a8be3f7fd7f5bd0",
-      "title": "R to @sigchi: The Augmented Humans International Conference* focuses on physical, cognitive, and perceptual augmentation of humans through digital technologies. AH 2027 will take place in Sri Lanka. https://augmented-humans.org/",
-      "link": "https://nitter.net/sigchi/status/2060468956452753538#m",
-      "description": "The Augmented Humans International Conference* focuses on physical, cognitive, and perceptual augmentation of humans through digital technologies. AH 2027 will take place in Sri Lanka. augmented-humans.org/",
+      "id": "f9363e2d13bb2f426f0eac6d6b18c879",
+      "title": "We're welcoming 4 new SIGCHI-sponsored conferences! ACM Interactive Health is for work at the intersection of HCI and Health. IH will be in Porto, Portugal, July 5 - 8. There will be an online pre-conference event on June 1 and registration for it is free. https://ih.acm.org/",
+      "link": "https://nitter.net/sigchi/status/2060468949561565276#m",
+      "description": "We're welcoming 4 new SIGCHI-sponsored conferences! ACM Interactive Health is for work at the intersection of HCI and Health. IH will be in Porto, Portugal, July 5 - 8. There will be an online pre-conference event on June 1 and registration for it is free. ih.acm.org/",
       "source": "SIGCHI",
       "social": false,
       "university": "",
