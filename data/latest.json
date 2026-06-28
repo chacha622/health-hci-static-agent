@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T07:51:26.402537+00:00",
+  "generated_at": "2026-06-27T06:51:02.987762+00:00",
   "total_items": 14,
   "by_source": {
     "ETH CDHI": 10,
@@ -7,74 +7,105 @@
   },
   "top10_new_or_updated": [
     {
-      "id": "d8f43dc509f09f268a8be3f7fd7f5bd0",
-      "title": "R to @sigchi: The Augmented Humans International Conference* focuses on physical, cognitive, and perceptual augmentation of humans through digital technologies. AH 2027 will take place in Sri Lanka. https://augmented-humans.org/",
-      "link": "https://nitter.net/sigchi/status/2060468956452753538#m",
-      "description": "The Augmented Humans International Conference* focuses on physical, cognitive, and perceptual augmentation of humans through digital technologies. AH 2027 will take place in Sri Lanka. augmented-humans.org/ Link Augmented Humans Conference 2026 The Augmented Humans 2026 (AHs&apos;26) International Conference will be held in Okinawa, Japan focusing on physical, cognitive, and perceptual augmenting humans through digital technologies. augmented-humans.org",
-      "source": "SIGCHI",
+      "id": "8bbb556157a78bf7e46c6bcf72a1b8ad",
+      "title": "Beyond the Click: Rethinking Engagement in Digital Health",
+      "link": "https://www.c4dhi.org/news/080526-reflections-chi-2026/",
+      "description": "On April 16, CDHI team members Prof. Dr. Marcia Nißen and Alexandre de Montleau traveled to Barcelona for a workshop on Engagement in Digital Health Interventions, as part of the ACM CHI 2026 Conference on Human Factors in Computing Systems. Engagement sits at the center of [...]",
+      "source": "ETH CDHI",
       "social": false,
       "university": "",
-      "supervisor": "",
-      "keywords": [],
+      "supervisor": "Prof. Dr",
+      "keywords": [
+        "digital health"
+      ],
       "funding": "TBD",
       "deadline": "Rolling",
       "collab": [],
       "eligibility": "",
       "location": "",
-      "score": 10,
-      "summary": "Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (SIGCHI)",
+      "score": 28,
+      "summary": "Supervisor: Prof. Dr | Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — digital health. TBD. Prof. Dr. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "f9363e2d13bb2f426f0eac6d6b18c879",
-      "title": "We're welcoming 4 new SIGCHI-sponsored conferences! ACM Interactive Health is for work at the intersection of HCI and Health. IH will be in Porto, Portugal, July 5 - 8. There will be an online pre-conference event on June 1 and registration for it is free. https://ih.acm.org/",
-      "link": "https://nitter.net/sigchi/status/2060468949561565276#m",
-      "description": "We're welcoming 4 new SIGCHI-sponsored conferences! ACM Interactive Health is for work at the intersection of HCI and Health. IH will be in Porto, Portugal, July 5 - 8. There will be an online pre-conference event on June 1 and registration for it is free. ih.acm.org/ Link ACM Interactive Health 2026 IH&apos;26 will be held in Porto, Portugal, on July 5-8, 2026. The ACM Interactive Health Conference (IH) is a new conference that aims to be the leading venue for presenting work at the intersection of... ih.acm.org",
-      "source": "SIGCHI",
+      "id": "d0466c16fd9f4ad7cbdaa6c27e4b259b",
+      "title": "Keynote by Prof. Park on Human-Centered AI and Digital Coaching for Healthy Longevity: Lessons from Gerontechnology, HRI, and Aging Research, 1 June 2026",
+      "link": "https://www.c4dhi.org/news/260601-keynote-prof-park-human-centered-ai-and-digital-coaching-healthy-longevity/",
+      "description": "📅 Monday, June 1 2026, 2:00 - 3:00 pm CET 📍UZH IfIS: Plattenstrasse 10, 8032 Zürich, 14th floor, Meeting Room \"Adliswil\" or 💻 Zoom (Please note, the door to the 14th floor is badge access only; please arrive on time to avoid disruption) 🎤 Hosted [...]",
+      "source": "ETH CDHI",
       "social": false,
       "university": "",
       "supervisor": "",
-      "keywords": [],
+      "keywords": [
+        "human-centered ai"
+      ],
       "funding": "TBD",
       "deadline": "Rolling",
       "collab": [],
       "eligibility": "",
       "location": "",
-      "score": 10,
-      "summary": "Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (SIGCHI)",
+      "score": 20,
+      "summary": "Keywords: human-centered ai | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — human-centered ai. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "ef5d546b46e73a778ea188ded01ca08a",
-      "title": "Join our virtual Town Hall Preview on Mar 23, 7pm UTC!: https://sigchi.org/events/sigchi-town-hall-preview/. Given how much is in flux around us this year, this will be a space for members to raise concerns ahead of our annual town hall at CHI. We'll also get your input on initiatives we've been working on.",
-      "link": "https://nitter.net/sigchi/status/2033989232801284374#m",
-      "description": "Join our virtual Town Hall Preview on Mar 23, 7pm UTC!: sigchi.org/events/sigchi-tow… . Given how much is in flux around us this year, this will be a space for members to raise concerns ahead of our annual town hall at CHI. We'll also get your input on initiatives we've been working on. Link SIGCHI Town Hall Preview ACM SIGCHI is the leading international community of students and professionals interested in research, education, and practical applications of Human Computer Interaction. sigchi.org",
-      "source": "SIGCHI",
+      "id": "934d772ce2e149a34d782b4495017617",
+      "title": "Keynote by Hauke Rienhoff fromOrthopy Medical GmbH",
+      "link": "https://www.c4dhi.org/news/260609-keynote-hauke-rienhoff/",
+      "description": "Last month, our CAS Digital Health: Therapeutics course had the pleasure of welcoming Hauke Rienhoff, Chief Commercial Officer of Orthopy Health GmbH who shared his learnings over the past 5 years as Orthopy went on a truly wild ride. He shared how Orthopy scaled by [...]",
+      "source": "ETH CDHI",
       "social": false,
       "university": "",
       "supervisor": "",
-      "keywords": [],
+      "keywords": [
+        "digital health"
+      ],
       "funding": "TBD",
       "deadline": "Rolling",
       "collab": [],
       "eligibility": "",
       "location": "",
-      "score": 10,
-      "summary": "Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (SIGCHI)",
+      "score": 18,
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
-      "id": "c8aeb20ccff7e1d4fb5f44487dbff1f6",
-      "title": "Following our Jan 2026 town hall to share feedback on the Digital Library (DL) with ACM, we invite members to read this CACM article on the evolution of the DL: https://cacm.acm.org/opinion/evolving-the-acm-digital-library/. The article lays out the rationale for changes, and further iteration that is underway.",
-      "link": "https://nitter.net/sigchi/status/2029755614717423781#m",
-      "description": "Following our Jan 2026 town hall to share feedback on the Digital Library (DL) with ACM, we invite members to read this CACM article on the evolution of the DL: cacm.acm.org/opinion/evolvin… . The article lays out the rationale for changes, and further iteration that is underway.",
-      "source": "SIGCHI",
+      "id": "46ed390dd13479431f927c8d427a3229",
+      "title": "Call for Applications: 2nd UMZH Precision Digital Therapeutics Summer School 2026",
+      "link": "https://www.c4dhi.org/news/260514-applications-2nd-umzh-pdtx-summer-school/",
+      "description": "Join the 2nd UMZH Precision Digital Therapeutics Summer School in Zurich, 17–21 August 2026! 🚀 Work with clinicians, patients, researchers, and innovators to design next-generation Precision Digital Therapeutics (PDTx) powered by AI and digital health technologies. Over five intensive days, interdisciplinary teams will tackle [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [
+        "clinic"
+      ],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "Keywords: digital health | Funding: TBD | Collab: clinic | Deadline: Rolling",
+      "ai_summary": "PhD at University — digital health. TBD; collaboration with clinic. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "8bcba6971f7ab183bbf1c67e0209b8b4",
+      "title": "Legitimizing Menstrual Health Symptoms in the Workplace",
+      "link": "https://www.c4dhi.org/news/260619-davinny-sou-legitimizing-menstrual-health-workplace/",
+      "description": "How many times have people gone to work while feeling unwell because they questioned whether their symptoms were legitimate enough? That question of legitimacy lies at the heart of many invisible health challenges in the workplace. Menstrual cycle related symptoms can be painful, disruptive, and [...]",
+      "source": "ETH CDHI",
       "social": false,
       "university": "",
       "supervisor": "",
@@ -86,12 +117,117 @@
       "location": "",
       "score": 10,
       "summary": "Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (SIGCHI)",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "aa3776ad455b9840745ae891c528c10a",
+      "title": "2nd UMZH Precision Digital Therapeutics Summer School, 17-21 August 2026, Zurich",
+      "link": "https://www.c4dhi.org/news/second-umzh-precision-digital-therapeutics-summer-school-2026/",
+      "description": "Background Information What are Precision Digital Therapeutics (PDTx)? How are PDTx designed, evaluated, implemented, scaled, and reimbursed? How can Generative AI make PDTx highly personalized? Digital Therapeutics (DTx) are software-based interventions to manage and treat disease. Precision DTx (PDTx) deliver hyper-personalized interventions at the most relevant and opportune [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "633c57c3c1edec46a5934e7a9cf3bbbc",
+      "title": "Keynote by Prof. Jason Block from Harvard Medical School on July 02",
+      "link": "https://www.c4dhi.org/news/260609-keynote-by-prof-jason-block-harvard/",
+      "description": "We are pleased to welcome Prof. Jason Block for a Keynote at the CDHI! 📅 Thursday, July 2 2026, 12:30 - 2:00 pm CET 📍ETH WEV H 326: Weinbergstrasse 56/58, Floor 'H' or 💻 Online (Please note, the door to Floor H opens by [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "Prof. Jason",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Supervisor: Prof. Jason | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Prof. Jason. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "d8afa2b472c03a53b6a3a6d490e91c81",
+      "title": "Keynote by Nimra Ahmed on What Remains After the Research? CaseCompass, Activism, and the Politics of Design, 4 June 2026",
+      "link": "https://www.c4dhi.org/news/keynote-by-nimra-ahmed-on-what-remains-after-research-4-june-2026/",
+      "description": "We are pleased to invite you to join this guest lecture, which is part of Cycles of Care, a spring workshop series at the UZH Digital Society Initiative's Health Community: Cycles of Care. \"What Remains After the Research? CaseCompass, Activism, and the Politics of Design\" [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "bb78cdc1963e254c8787f24d457aff0b",
+      "title": "Health IT in Practice: Insights from HOCH Health Ostschweiz CIO Michael Stahlberger",
+      "link": "https://www.c4dhi.org/news/260513-health-it-in-practice-insights-from-hoch-health-ostschweiz-cio-michael-stahlberger/",
+      "description": "Today, we had the pleasure of welcoming Michael Stahlberger, CIO of HOCH Health Ostschweiz, for an inspiring keynote as part of the Health IT lecture organized by Prof. Dr. Tobias Kowatsch within the Joint Medical Master program, a joint initiative of the University of Zurich [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of Zurich",
+      "supervisor": "Prof. Dr",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "University of Zurich | Supervisor: Prof. Dr | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University of Zurich — health HCI / digital health. TBD. Prof. Dr. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "00d5db883ba94800b4a6f637b9c30ef7",
+      "title": "Keynote by Prof. Strohmayer on Crafting Hopeful Imaginaries and Sustainability in Systems Change Work, 4 June 2026",
+      "link": "https://www.c4dhi.org/news/110526-keynote-by-prof-angelika-strohmayer-crafting-hopeful-imaginaries/",
+      "description": "We are pleased to invite you to join this guest lecture, which is part of Cycles of Care, a spring workshop series at the UZH Digital Society Initiative's Health Community: Cycles of Care. \"Crafting Hopeful Imaginaries and Exploring Sustainability in Systems Change Work: improving care [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
     }
   ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://nitter.net/sigchi/status/2060468956452753538#m\",\"SIGCHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://nitter.net/sigchi/status/2060468949561565276#m\",\"SIGCHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://nitter.net/sigchi/status/2033989232801284374#m\",\"SIGCHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://nitter.net/sigchi/status/2029755614717423781#m\",\"SIGCHI\"",
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"Prof. Dr\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/080526-reflections-chi-2026/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"human-centered ai\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260601-keynote-prof-park-human-centered-ai-and-digital-coaching-healthy-longevity/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260609-keynote-hauke-rienhoff/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260514-applications-2nd-umzh-pdtx-summer-school/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260619-davinny-sou-legitimizing-menstrual-health-workplace/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/second-umzh-precision-digital-therapeutics-summer-school-2026/\",\"ETH CDHI\"\n\"\",\"\",\"Prof. Jason\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260609-keynote-by-prof-jason-block-harvard/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/keynote-by-nimra-ahmed-on-what-remains-after-research-4-june-2026/\",\"ETH CDHI\"\n\"University of Zurich\",\"\",\"Prof. Dr\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260513-health-it-in-practice-insights-from-hoch-health-ostschweiz-cio-michael-stahlberger/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/110526-keynote-by-prof-angelika-strohmayer-crafting-hopeful-imaginaries/\",\"ETH CDHI\"",
   "items": [
     {
       "id": "8bbb556157a78bf7e46c6bcf72a1b8ad",
@@ -332,7 +468,7 @@
       "summary": "Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (SIGCHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "f9363e2d13bb2f426f0eac6d6b18c879",
@@ -353,7 +489,7 @@
       "summary": "Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (SIGCHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "ef5d546b46e73a778ea188ded01ca08a",
@@ -374,7 +510,7 @@
       "summary": "Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (SIGCHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "c8aeb20ccff7e1d4fb5f44487dbff1f6",
@@ -395,7 +531,7 @@
       "summary": "Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (SIGCHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     }
   ]
 }
