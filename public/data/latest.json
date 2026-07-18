@@ -1,86 +1,17 @@
 {
-  "generated_at": "2026-07-17T06:13:37.498210+00:00",
-  "total_items": 13,
+  "generated_at": "2026-07-18T06:03:33.418837+00:00",
+  "total_items": 14,
   "by_source": {
     "ETH CDHI": 9,
-    "SIGCHI": 4
+    "SIGCHI": 5
   },
   "top10_new_or_updated": [
     {
-      "id": "16793f7c87db8246a56a12987a3c4f6a",
-      "title": "Thesis Topic: Digital Health Technologies Supporting Family Caregivers of Stroke Survivors in the Post-Discharge Phase",
-      "link": "https://www.c4dhi.org/news/260716-thesis-topic-scoping-review-post-stroke/",
-      "description": "CDHI Thesis Title: Digital Health Technologies Supporting Family Caregivers of Stroke Survivors in the Post-Discharge Phase. A Master thesis topic is available at the Centre for Digital Health Interventions! What this thesis is about Stroke affects millions of people worldwide, with approximately 20,000 new cases [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "",
-      "supervisor": "",
-      "keywords": [
-        "digital health"
-      ],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 28,
-      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": true
-    },
-    {
-      "id": "39db0e05291c696388c76f2a6c8ee399",
-      "title": "Thesis Topic: Feasibility and Acceptability of an AI-Powered Voice Agent for Informal Caregivers of Stroke Survivors",
-      "link": "https://www.c4dhi.org/news/thesis-topic-feasibility-acceptability-ai-voice-agent/",
-      "description": "CDHI Thesis Title: Feasibility and Acceptability of an AI-Powered Voice Agent for Informal Caregivers of Stroke Survivors A Master thesis topic is available at the Centre for Digital Health Interventions! What this thesis is about Family caregivers of stroke survivors carry a substantial burden after [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "",
-      "supervisor": "",
-      "keywords": [
-        "digital health"
-      ],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 18,
-      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": true
-    },
-    {
-      "id": "40c19dc12a00dc908b4de3217256b1fe",
-      "title": "Thesis Topic: Designing and Building One Adaptive Module of a Stroke-Caregiver Care Companion: A Just-in-Time Support Lever from Specification to Evaluation",
-      "link": "https://www.c4dhi.org/news/260716-thesis-topic-designing-building-post-stroke-jitai/",
-      "description": "CDHI Thesis Title: Designing and Building One Adaptive Module of a Stroke-Caregiver Care Companion: A Just-in-Time Support Lever from Specification to Evaluation A Master thesis topic is available at the Centre for Digital Health Interventions! What this thesis is about Valico’s care companion is built [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "",
-      "supervisor": "",
-      "keywords": [
-        "digital health"
-      ],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 18,
-      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": true
-    },
-    {
-      "id": "9eeed5ef85e0f36ffff49282b2356ab0",
-      "title": "Participants wanted for a study on menstrual health visualizations",
-      "link": "https://www.c4dhi.org/news/260716-menstrual-health-visualization-study/",
-      "description": "Participants wanted for a study on Menstrual Health Visualization: ‘How Much Is Enough? Balancing Insight and Cognitive Load in Menstrual Health Visualization’ The study explores how menstrual health information can be presented in a way that is insightful, useful, and easy to understand —without becoming [...]",
-      "source": "ETH CDHI",
+      "id": "c83d5446175d231494570e44dd664af1",
+      "title": "Where should #ACMCHI be held in 2030 & 2031? We invite SIGCHI members to share ideas for future CHI locations! 🌍 Share by Aug. 15: https://www.surveymonkey.com/r/SV786R3 #HCI #SIGCHI",
+      "link": "https://nitter.net/sigchi/status/2078207619433443371#m",
+      "description": "Where should #ACMCHI be held in 2030 &amp; 2031? We invite SIGCHI members to share ideas for future CHI locations! 🌍 Share by Aug. 15: surveymonkey.com/r/SV786R3 #HCI #SIGCHI Link CHI Steering Committee Site Selection Community Consultation 2030 2031 Take this survey powered by surveymonkey.com. Create your own surveys for free. surveymonkey.com",
+      "source": "SIGCHI",
       "social": false,
       "university": "",
       "supervisor": "",
@@ -92,12 +23,12 @@
       "location": "",
       "score": 10,
       "summary": "Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (SIGCHI)",
       "papers": [],
       "is_new": true
     }
   ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260716-thesis-topic-scoping-review-post-stroke/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/thesis-topic-feasibility-acceptability-ai-voice-agent/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260716-thesis-topic-designing-building-post-stroke-jitai/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260716-menstrual-health-visualization-study/\",\"ETH CDHI\"",
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://nitter.net/sigchi/status/2078207619433443371#m\",\"SIGCHI\"",
   "items": [
     {
       "id": "16793f7c87db8246a56a12987a3c4f6a",
@@ -120,7 +51,7 @@
       "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "39db0e05291c696388c76f2a6c8ee399",
@@ -143,7 +74,7 @@
       "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "40c19dc12a00dc908b4de3217256b1fe",
@@ -166,7 +97,7 @@
       "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8b57ac80d42fb1ab1a5af680cdf29c15",
@@ -279,7 +210,7 @@
       "summary": "Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "963467d53df414cbda7c43d90acbdfec",
@@ -301,6 +232,27 @@
       "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
       "is_new": false
+    },
+    {
+      "id": "c83d5446175d231494570e44dd664af1",
+      "title": "Where should #ACMCHI be held in 2030 & 2031? We invite SIGCHI members to share ideas for future CHI locations! 🌍 Share by Aug. 15: https://www.surveymonkey.com/r/SV786R3 #HCI #SIGCHI",
+      "link": "https://nitter.net/sigchi/status/2078207619433443371#m",
+      "description": "Where should #ACMCHI be held in 2030 &amp; 2031? We invite SIGCHI members to share ideas for future CHI locations! 🌍 Share by Aug. 15: surveymonkey.com/r/SV786R3 #HCI #SIGCHI Link CHI Steering Committee Site Selection Community Consultation 2030 2031 Take this survey powered by surveymonkey.com. Create your own surveys for free. surveymonkey.com",
+      "source": "SIGCHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (SIGCHI)",
+      "papers": [],
+      "is_new": true
     },
     {
       "id": "d8f43dc509f09f268a8be3f7fd7f5bd0",
