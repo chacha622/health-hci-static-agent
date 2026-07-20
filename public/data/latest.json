@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T06:28:48.428704+00:00",
+  "generated_at": "2026-07-20T06:43:37.536567+00:00",
   "total_items": 14,
   "by_source": {
     "ETH CDHI": 9,
@@ -27,7 +27,7 @@
       "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5e78fcc405fa3e9a61106dc8c6381717",
@@ -50,7 +50,7 @@
       "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "693d4cae681437072e0944d423303aaa",
@@ -73,10 +73,165 @@
       "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "8b57ac80d42fb1ab1a5af680cdf29c15",
+      "title": "Thesis Topic: Safe and Auditable Voice AI for Health",
+      "link": "https://www.c4dhi.org/news/thesis-topic-safe-and-auditable-voice-ai-for-health/",
+      "description": "CDHI Thesis Title: Safe, Auditable, Voice-First Conversational AI for Health. An open call for thesis projects on the STELLA platform. A Master thesis topic is available at the Centre for Digital Health Interventions! Overview We supervise a small number of Master's theses each year on [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "57035706e4ec8c463a518acdbcf36ee0",
+      "title": "A warm welcome to new team member Rachel Robles",
+      "link": "https://www.c4dhi.org/news/a-warm-welcome-to-new-team-member-rachel-robles/",
+      "description": "Please join us in welcoming Rachel Robles to the School of Medicine, University of St. Gallen (HSG), and the Centre for Digital Health Interventions (CDHI). Under the supervision of Prof. Dr. Tobias Kowatsch, Prof. Dr. Marcia Nißen and Dr. Rasita Vinay, her PhD research will [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of St",
+      "supervisor": "Prof. Dr",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "University of St | Supervisor: Prof. Dr | Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University of St — digital health. TBD. Prof. Dr. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "89f5d66330450ad882e1fa0442aa2bb0",
+      "title": "A warm welcome to new team member Dr. Vanessa Vallesi",
+      "link": "https://www.c4dhi.org/news/260701-welcome-to-dr-vanessa-valessi/",
+      "description": "We are happy to welcome Dr. Vanessa Vallesi at the Institute for Implementation Science in Health Care (Team Digital Health Interventions), University of Zurich, and the Centre for Digital Health Interventions, where she will support the work on the University Medicine Zurich (UMZH) technology initiative [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of Zurich",
+      "supervisor": "Dr. Vanessa",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [
+        "institute"
+      ],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "University of Zurich | Supervisor: Dr. Vanessa | Keywords: digital health | Funding: TBD | Collab: institute | Deadline: Rolling",
+      "ai_summary": "PhD at University of Zurich — digital health. TBD; collaboration with institute. Dr. Vanessa. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "aa3776ad455b9840745ae891c528c10a",
+      "title": "2nd UMZH Precision Digital Therapeutics Summer School, 17-21 August 2026, Zurich",
+      "link": "https://www.c4dhi.org/news/second-umzh-precision-digital-therapeutics-summer-school-2026/",
+      "description": "Background Information What are Precision Digital Therapeutics (PDTx)? How are PDTx designed, evaluated, implemented, scaled, and reimbursed? How can Generative AI make PDTx highly personalized? Digital Therapeutics (DTx) are software-based interventions to manage and treat disease. Precision DTx (PDTx) deliver hyper-personalized interventions at the most relevant and opportune [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "9eeed5ef85e0f36ffff49282b2356ab0",
+      "title": "Participants wanted for a study on menstrual health visualizations",
+      "link": "https://www.c4dhi.org/news/260716-menstrual-health-visualization-study/",
+      "description": "Participants wanted for a study on Menstrual Health Visualization: ‘How Much Is Enough? Balancing Insight and Cognitive Load in Menstrual Health Visualization’ The study explores how menstrual health information can be presented in a way that is insightful, useful, and easy to understand —without becoming [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "963467d53df414cbda7c43d90acbdfec",
+      "title": "Join us at the Menstruation Research Conference 2026 – July 7-8 2026, Brighton and Sussex Medical School, UK",
+      "link": "https://www.c4dhi.org/news/join-us-at-conversational-user-interfaces-2026/",
+      "description": "Please join our Digital Women's Health CORE at the Menstruation Research Conference 2026 in Brighton, UK, from July 7–8, 2026, jointly organised by the Menstruation Research Network (MRN) and the 4M – Menarche, Menstruation, Menopause and Mental Health Consortium. Established in 2018, the Menstruation Research [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "c83d5446175d231494570e44dd664af1",
+      "title": "Where should #ACMCHI be held in 2030 & 2031? We invite SIGCHI members to share ideas for future CHI locations! 🌍 Share by Aug. 15: https://www.surveymonkey.com/r/SV786R3 #HCI #SIGCHI",
+      "link": "https://nitter.net/sigchi/status/2078207619433443371#m",
+      "description": "Where should #ACMCHI be held in 2030 &amp; 2031? We invite SIGCHI members to share ideas for future CHI locations! 🌍 Share by Aug. 15: surveymonkey.com/r/SV786R3 #HCI #SIGCHI Link CHI Steering Committee Site Selection Community Consultation 2030 2031 Take this survey powered by surveymonkey.com. Create your own surveys for free. surveymonkey.com",
+      "source": "SIGCHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (SIGCHI)",
+      "papers": [],
+      "is_new": false
     }
   ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/260716-thesis-topic-scoping-review-post-stroke/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/thesis-topic-feasibility-acceptability-ai-voice-agent/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/260716-thesis-topic-designing-building-post-stroke-jitai/\",\"ETH CDHI\"",
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/260716-thesis-topic-scoping-review-post-stroke/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/thesis-topic-feasibility-acceptability-ai-voice-agent/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/260716-thesis-topic-designing-building-post-stroke-jitai/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/thesis-topic-safe-and-auditable-voice-ai-for-health/\",\"ETH CDHI\"\n\"University of St\",\"\",\"Prof. Dr\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/a-warm-welcome-to-new-team-member-rachel-robles/\",\"ETH CDHI\"\n\"University of Zurich\",\"\",\"Dr. Vanessa\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260701-welcome-to-dr-vanessa-valessi/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/second-umzh-precision-digital-therapeutics-summer-school-2026/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260716-menstrual-health-visualization-study/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/join-us-at-conversational-user-interfaces-2026/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://nitter.net/sigchi/status/2078207619433443371#m\",\"SIGCHI\"",
   "items": [
     {
       "id": "4155c5e45ca8df3fbc466b38d388be1d",
@@ -99,7 +254,7 @@
       "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5e78fcc405fa3e9a61106dc8c6381717",
@@ -122,7 +277,7 @@
       "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "693d4cae681437072e0944d423303aaa",
@@ -145,7 +300,7 @@
       "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8b57ac80d42fb1ab1a5af680cdf29c15",
