@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-20T06:43:37.536567+00:00",
-  "total_items": 14,
+  "generated_at": "2026-07-21T06:26:26.556586+00:00",
+  "total_items": 13,
   "by_source": {
-    "ETH CDHI": 9,
+    "ETH CDHI": 8,
     "SIGCHI": 5
   },
   "top10_new_or_updated": [
@@ -122,31 +122,6 @@
       "is_new": false
     },
     {
-      "id": "89f5d66330450ad882e1fa0442aa2bb0",
-      "title": "A warm welcome to new team member Dr. Vanessa Vallesi",
-      "link": "https://www.c4dhi.org/news/260701-welcome-to-dr-vanessa-valessi/",
-      "description": "We are happy to welcome Dr. Vanessa Vallesi at the Institute for Implementation Science in Health Care (Team Digital Health Interventions), University of Zurich, and the Centre for Digital Health Interventions, where she will support the work on the University Medicine Zurich (UMZH) technology initiative [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "University of Zurich",
-      "supervisor": "Dr. Vanessa",
-      "keywords": [
-        "digital health"
-      ],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [
-        "institute"
-      ],
-      "eligibility": "",
-      "location": "",
-      "score": 18,
-      "summary": "University of Zurich | Supervisor: Dr. Vanessa | Keywords: digital health | Funding: TBD | Collab: institute | Deadline: Rolling",
-      "ai_summary": "PhD at University of Zurich — digital health. TBD; collaboration with institute. Dr. Vanessa. (ETH CDHI)",
-      "papers": [],
-      "is_new": false
-    },
-    {
       "id": "aa3776ad455b9840745ae891c528c10a",
       "title": "2nd UMZH Precision Digital Therapeutics Summer School, 17-21 August 2026, Zurich",
       "link": "https://www.c4dhi.org/news/second-umzh-precision-digital-therapeutics-summer-school-2026/",
@@ -229,9 +204,30 @@
       "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (SIGCHI)",
       "papers": [],
       "is_new": false
+    },
+    {
+      "id": "d8f43dc509f09f268a8be3f7fd7f5bd0",
+      "title": "R to @sigchi: The Augmented Humans International Conference* focuses on physical, cognitive, and perceptual augmentation of humans through digital technologies. AH 2027 will take place in Sri Lanka. https://augmented-humans.org/",
+      "link": "https://nitter.net/sigchi/status/2060468956452753538#m",
+      "description": "The Augmented Humans International Conference* focuses on physical, cognitive, and perceptual augmentation of humans through digital technologies. AH 2027 will take place in Sri Lanka. augmented-humans.org/ Link Augmented Humans Conference 2026 The Augmented Humans 2026 (AHs&apos;26) International Conference will be held in Okinawa, Japan focusing on physical, cognitive, and perceptual augmenting humans through digital technologies. augmented-humans.org",
+      "source": "SIGCHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (SIGCHI)",
+      "papers": [],
+      "is_new": false
     }
   ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/260716-thesis-topic-scoping-review-post-stroke/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/thesis-topic-feasibility-acceptability-ai-voice-agent/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/260716-thesis-topic-designing-building-post-stroke-jitai/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/thesis-topic-safe-and-auditable-voice-ai-for-health/\",\"ETH CDHI\"\n\"University of St\",\"\",\"Prof. Dr\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/a-warm-welcome-to-new-team-member-rachel-robles/\",\"ETH CDHI\"\n\"University of Zurich\",\"\",\"Dr. Vanessa\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260701-welcome-to-dr-vanessa-valessi/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/second-umzh-precision-digital-therapeutics-summer-school-2026/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260716-menstrual-health-visualization-study/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/join-us-at-conversational-user-interfaces-2026/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://nitter.net/sigchi/status/2078207619433443371#m\",\"SIGCHI\"",
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/260716-thesis-topic-scoping-review-post-stroke/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/thesis-topic-feasibility-acceptability-ai-voice-agent/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/260716-thesis-topic-designing-building-post-stroke-jitai/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/thesis-topic-safe-and-auditable-voice-ai-for-health/\",\"ETH CDHI\"\n\"University of St\",\"\",\"Prof. Dr\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/a-warm-welcome-to-new-team-member-rachel-robles/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/second-umzh-precision-digital-therapeutics-summer-school-2026/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260716-menstrual-health-visualization-study/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/join-us-at-conversational-user-interfaces-2026/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://nitter.net/sigchi/status/2078207619433443371#m\",\"SIGCHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://nitter.net/sigchi/status/2060468956452753538#m\",\"SIGCHI\"",
   "items": [
     {
       "id": "4155c5e45ca8df3fbc466b38d388be1d",
@@ -345,31 +341,6 @@
       "score": 18,
       "summary": "University of St | Supervisor: Prof. Dr | Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University of St — digital health. TBD. Prof. Dr. (ETH CDHI)",
-      "papers": [],
-      "is_new": false
-    },
-    {
-      "id": "89f5d66330450ad882e1fa0442aa2bb0",
-      "title": "A warm welcome to new team member Dr. Vanessa Vallesi",
-      "link": "https://www.c4dhi.org/news/260701-welcome-to-dr-vanessa-valessi/",
-      "description": "We are happy to welcome Dr. Vanessa Vallesi at the Institute for Implementation Science in Health Care (Team Digital Health Interventions), University of Zurich, and the Centre for Digital Health Interventions, where she will support the work on the University Medicine Zurich (UMZH) technology initiative [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "University of Zurich",
-      "supervisor": "Dr. Vanessa",
-      "keywords": [
-        "digital health"
-      ],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [
-        "institute"
-      ],
-      "eligibility": "",
-      "location": "",
-      "score": 18,
-      "summary": "University of Zurich | Supervisor: Dr. Vanessa | Keywords: digital health | Funding: TBD | Collab: institute | Deadline: Rolling",
-      "ai_summary": "PhD at University of Zurich — digital health. TBD; collaboration with institute. Dr. Vanessa. (ETH CDHI)",
       "papers": [],
       "is_new": false
     },
