@@ -1,10 +1,174 @@
 {
-  "generated_at": "2026-09-01T09:10:29.156469+00:00",
+  "generated_at": "2026-09-02T08:23:31.429780+00:00",
   "total_items": 9,
   "by_source": {
     "ETH CDHI": 9
   },
   "top10_new_or_updated": [
+    {
+      "id": "8b41c67f375008d8eb6e6beca85e33d4",
+      "title": "Tobias Kowatsch has been Full Professor for Digital Health Interventions at the University of St.Gallen (HSG) since 1 August 2026",
+      "link": "https://www.c4dhi.org/news/tobias-kowatsch-full-professor-digital-health-interventions-at-the-university-of-st-gallen-hsg-since-1-august-2026/",
+      "description": "Prof. Dr. Tobias Kowatsch completed his PhD in Management at the University of St.Gallen in 2016, and in 2022 he was awarded the title of private lecturer (Privatdozent) with the \"venia legendi\" in Information Systems with a special focus on Digital Health, following the successful [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of St",
+      "supervisor": "Prof. Dr",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 28,
+      "summary": "University of St | Supervisor: Prof. Dr | Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University of St — digital health. TBD. Prof. Dr. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "4155c5e45ca8df3fbc466b38d388be1d",
+      "title": "Thesis Topic: Digital Health Technologies Supporting Family Caregivers of Stroke Survivors in the Post-Discharge Phase",
+      "link": "https://www.c4dhi.org/thesis-topic/260716-thesis-topic-scoping-review-post-stroke/",
+      "description": "CDHI Thesis Title: Digital Health Technologies Supporting Family Caregivers of Stroke Survivors in the Post-Discharge Phase. A Master thesis topic is available at the Centre for Digital Health Interventions! What this thesis is about Stroke affects millions of people worldwide, with approximately 20,000 new cases [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 28,
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "18d6f6fe69030bfff5dc631769b0dbed",
+      "title": "Apps on Prescription: Prof. Tobias Kowatsch on Switzerland’s First Reimbursed Digital Therapeutic",
+      "link": "https://www.c4dhi.org/news/apps-on-prescription-prof-kowatsch-switzerlands-first-reimbursed-digital-health-application/",
+      "description": "Since 1 July 2026, physicians in Switzerland can, for the first time, prescribe a digital health application at the expense of mandatory health insurance. What this milestone means for everyday clinical practice was the subject of the opening talk at the 3rd St.Galler Ärztesymposium, delivered by [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "clinical",
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [
+        "clinic"
+      ],
+      "eligibility": "",
+      "location": "",
+      "score": 26,
+      "summary": "Keywords: clinical, digital health | Funding: TBD | Collab: clinic | Deadline: Rolling",
+      "ai_summary": "PhD at University — clinical, digital health. TBD; collaboration with clinic. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "d13058da702b2bc100b49f4eaddcc1db",
+      "title": "Join Us at MuC 2026 in Duisburg: 2 Demos on Adherence and Receptivity, 30 Aug – 2 Sep",
+      "link": "https://www.c4dhi.org/news/260830-muc-2026-pulse-adhere/",
+      "description": "Meet Lola Jo Ackermann and Alexandre de Montleau at Mensch und Computer 2026 and explore two interactive CDHI demos that make digital health interventions more adaptive, transparent, and responsive. Digital health interventions face two deceptively simple questions: What should happen when engagement begins to decline? [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "7517bbc95e5f3223de6052cab6b94082",
+      "title": "Join Us at the Care for Older Adults Night August 20th",
+      "link": "https://www.c4dhi.org/news/260806-care-older-adults-night/",
+      "description": "Presenting the Care for Older Adults Digital Health Night! Join us for a night of learning and exchange as we hear from 6 of the most promising companies working on older adult care! A special event in the context of the 2026 UMZH Precision Digital [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "5e78fcc405fa3e9a61106dc8c6381717",
+      "title": "Thesis Topic: Feasibility and Acceptability of an AI-Powered Voice Agent for Informal Caregivers of Stroke Survivors",
+      "link": "https://www.c4dhi.org/thesis-topic/thesis-topic-feasibility-acceptability-ai-voice-agent/",
+      "description": "CDHI Thesis Title: Feasibility and Acceptability of an AI-Powered Voice Agent for Informal Caregivers of Stroke Survivors A Master thesis topic is available at the Centre for Digital Health Interventions! What this thesis is about Family caregivers of stroke survivors carry a substantial burden after [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "693d4cae681437072e0944d423303aaa",
+      "title": "Thesis Topic: Designing and Building One Adaptive Module of a Stroke-Caregiver Care Companion: A Just-in-Time Support Lever from Specification to Evaluation",
+      "link": "https://www.c4dhi.org/thesis-topic/260716-thesis-topic-designing-building-post-stroke-jitai/",
+      "description": "CDHI Thesis Title: Designing and Building One Adaptive Module of a Stroke-Caregiver Care Companion: A Just-in-Time Support Lever from Specification to Evaluation A Master thesis topic is available at the Centre for Digital Health Interventions! What this thesis is about Valico’s care companion is built [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
     {
       "id": "d047c3c4179434f56d64c684c9094e6f",
       "title": "Stellenausschreibung: Bachelor-/Masterstudierende gesucht – Teilzeit Research Assistant (20-50 %) für T2D-Präventionsstudie",
@@ -24,10 +188,31 @@
       "summary": "Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "aa3776ad455b9840745ae891c528c10a",
+      "title": "2nd UMZH Precision Digital Therapeutics Summer School, 17-21 August 2026, Zurich",
+      "link": "https://www.c4dhi.org/news/second-umzh-precision-digital-therapeutics-summer-school-2026/",
+      "description": "Background Information What are Precision Digital Therapeutics (PDTx)? How are PDTx designed, evaluated, implemented, scaled, and reimbursed? How can Generative AI make PDTx highly personalized? Digital Therapeutics (DTx) are software-based interventions to manage and treat disease. Precision DTx (PDTx) deliver hyper-personalized interventions at the most relevant and opportune [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
     }
   ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/stellenausschreibung-bachelor-masterstudierende-gesucht-teilzeit-research-assistant-20-50-fur-t2d-praventionsstudie/\",\"ETH CDHI\"",
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"University of St\",\"\",\"Prof. Dr\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/tobias-kowatsch-full-professor-digital-health-interventions-at-the-university-of-st-gallen-hsg-since-1-august-2026/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/260716-thesis-topic-scoping-review-post-stroke/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"clinical, digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/apps-on-prescription-prof-kowatsch-switzerlands-first-reimbursed-digital-health-application/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260830-muc-2026-pulse-adhere/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260806-care-older-adults-night/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/thesis-topic-feasibility-acceptability-ai-voice-agent/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/260716-thesis-topic-designing-building-post-stroke-jitai/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/stellenausschreibung-bachelor-masterstudierende-gesucht-teilzeit-research-assistant-20-50-fur-t2d-praventionsstudie/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/second-umzh-precision-digital-therapeutics-summer-school-2026/\",\"ETH CDHI\"",
   "items": [
     {
       "id": "8b41c67f375008d8eb6e6beca85e33d4",
@@ -212,7 +397,7 @@
       "summary": "Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "aa3776ad455b9840745ae891c528c10a",
