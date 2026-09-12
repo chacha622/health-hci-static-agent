@@ -1,38 +1,15 @@
 {
-  "generated_at": "2026-09-10T08:39:13.445888+00:00",
+  "generated_at": "2026-09-11T08:34:35.426044+00:00",
   "total_items": 9,
   "by_source": {
     "ETH CDHI": 9
   },
   "top10_new_or_updated": [
     {
-      "id": "0d3ac15c203b0c8a125b923c4218fea9",
-      "title": "Timing Matters: Alexandre de Montleau at MuC 2026",
-      "link": "https://www.c4dhi.org/news/260910-timing-matters-alexandre-de-montleau-at-muc-2026/",
-      "description": "On 31 August 2026, Alexandre de Montleau presented our latest work at Mensch und Computer 2026 in Duisburg: helping digital health interventions find a suitable moment to offer support. PULSE, the Personalized User-Level Scheduling Engine, is a reusable scheduling service developed as part of our [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "UiT",
-      "supervisor": "",
-      "keywords": [
-        "digital health"
-      ],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 18,
-      "summary": "UiT | Keywords: digital health | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at UiT — digital health. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": true
-    },
-    {
-      "id": "7a2b2f0d4aeed62ad8ec53ad316af799",
-      "title": "When Users Go Quiet: Lola Ackermann at MuC 2026",
-      "link": "https://www.c4dhi.org/news/260901-when-users-go-quiet-lola-ackermann-at-muc-2026/",
-      "description": "On 31 August 2026, Lola Jo Ackermann presented our latest work at Mensch und Computer 2026 in Duisburg: helping digital health apps offer timely support when participants are at risk of missing their next scheduled check-in. The prototype, ADHERE-MCP, is a reusable software service built using [...]",
+      "id": "e769b987f7a6e6bc8be7b17975c0d4d4",
+      "title": "A warm welcome to new team member Megan McCrory",
+      "link": "https://www.c4dhi.org/news/a-warm-welcome-to-new-team-member-megan-mccrory/",
+      "description": "We are delighted to welcome Megan McCrory as our newest member of the CDHI team! Megan joins us as the CAS Digital Health: Therapeutics Program Manager, where she will oversee program operations, coordinate stakeholders, and contribute to an engaging, high-quality experience for participants throughout their [...]",
       "source": "ETH CDHI",
       "social": false,
       "university": "",
@@ -52,7 +29,7 @@
       "is_new": true
     }
   ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"UiT\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260910-timing-matters-alexandre-de-montleau-at-muc-2026/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260901-when-users-go-quiet-lola-ackermann-at-muc-2026/\",\"ETH CDHI\"",
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/a-warm-welcome-to-new-team-member-megan-mccrory/\",\"ETH CDHI\"",
   "items": [
     {
       "id": "8b41c67f375008d8eb6e6beca85e33d4",
@@ -104,6 +81,29 @@
       "is_new": false
     },
     {
+      "id": "e769b987f7a6e6bc8be7b17975c0d4d4",
+      "title": "A warm welcome to new team member Megan McCrory",
+      "link": "https://www.c4dhi.org/news/a-warm-welcome-to-new-team-member-megan-mccrory/",
+      "description": "We are delighted to welcome Megan McCrory as our newest member of the CDHI team! Megan joins us as the CAS Digital Health: Therapeutics Program Manager, where she will oversee program operations, coordinate stakeholders, and contribute to an engaging, high-quality experience for participants throughout their [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": true
+    },
+    {
       "id": "0d3ac15c203b0c8a125b923c4218fea9",
       "title": "Timing Matters: Alexandre de Montleau at MuC 2026",
       "link": "https://www.c4dhi.org/news/260910-timing-matters-alexandre-de-montleau-at-muc-2026/",
@@ -124,13 +124,13 @@
       "summary": "UiT | Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at UiT — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "7a2b2f0d4aeed62ad8ec53ad316af799",
       "title": "When Users Go Quiet: Lola Ackermann at MuC 2026",
       "link": "https://www.c4dhi.org/news/260901-when-users-go-quiet-lola-ackermann-at-muc-2026/",
-      "description": "On 31 August 2026, Lola Jo Ackermann presented our latest work at Mensch und Computer 2026 in Duisburg: helping digital health apps offer timely support when participants are at risk of missing their next scheduled check-in. The prototype, ADHERE-MCP, is a reusable software service built using [...]",
+      "description": "On 31 August 2026, Lola Jo Ackermann presented our latest work at Mensch und Computer 2026 in Duisburg: helping digital health apps offer timely support when participants are at risk of missing their next scheduled check-in. The prototype, ADHERE-MCP, is a reusable software service built [...]",
       "source": "ETH CDHI",
       "social": false,
       "university": "",
@@ -147,7 +147,7 @@
       "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d13058da702b2bc100b49f4eaddcc1db",
@@ -177,29 +177,6 @@
       "title": "Join Us at the Care for Older Adults Night August 20th",
       "link": "https://www.c4dhi.org/news/260806-care-older-adults-night/",
       "description": "Presenting the Care for Older Adults Digital Health Night! Join us for a night of learning and exchange as we hear from 6 of the most promising companies working on older adult care! A special event in the context of the 2026 UMZH Precision Digital [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "",
-      "supervisor": "",
-      "keywords": [
-        "digital health"
-      ],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 18,
-      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": false
-    },
-    {
-      "id": "5e78fcc405fa3e9a61106dc8c6381717",
-      "title": "Thesis Topic: Feasibility and Acceptability of an AI-Powered Voice Agent for Informal Caregivers of Stroke Survivors",
-      "link": "https://www.c4dhi.org/thesis-topic/thesis-topic-feasibility-acceptability-ai-voice-agent/",
-      "description": "CDHI Thesis Title: Feasibility and Acceptability of an AI-Powered Voice Agent for Informal Caregivers of Stroke Survivors A Master thesis topic is available at the Centre for Digital Health Interventions! What this thesis is about Family caregivers of stroke survivors carry a substantial burden after [...]",
       "source": "ETH CDHI",
       "social": false,
       "university": "",
