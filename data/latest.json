@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T09:11:59.173267+00:00",
+  "generated_at": "2026-09-16T09:04:37.024404+00:00",
   "total_items": 10,
   "by_source": {
     "ETH CDHI": 10
@@ -27,7 +27,7 @@
       "summary": "University of St | Keywords: ai chatbot, digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University of St — ai chatbot, digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8c043a5283c5ee67aa6dc0c12d39fe30",
@@ -52,103 +52,7 @@
       "summary": "University of St | Keywords: clinical | Funding: TBD | Collab: clinic | Deadline: Rolling",
       "ai_summary": "PhD at University of St — clinical. TBD; collaboration with clinic. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
-    },
-    {
-      "id": "f595c41a4b224e5c538f9d4e14340a47",
-      "title": "Digital Therapeutics, Fall 2026, University of St.Gallen",
-      "link": "https://www.c4dhi.org/news/digital-therapeutics-fall-2026-university-of-st-gallen/",
-      "description": "Towards Conversational AI for Disease Management (Nature, 2026), Generative AI Chatbot for Mental Health Treatment (NEJM AI, 2025) Mobile health intervention CanRelax reduces distress in people with cancer, (npj Digital Medicine 2025) Therabot for the treatment of mental disorders (Nature Mental Health 2025), A Hybrid Rule- and [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "University of St",
-      "supervisor": "",
-      "keywords": [
-        "ai chatbot"
-      ],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 18,
-      "summary": "University of St | Keywords: ai chatbot | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University of St — ai chatbot. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": true
-    },
-    {
-      "id": "5e3f158140473d8296c3ff3c13a24a4b",
-      "title": "Meet STELLA: Keynote by Felix Moser on Open-Source Voice AI for Health Research, 1 Oct 2026",
-      "link": "https://www.c4dhi.org/news/261001-stella-felix-moser-open-source-voice-ai/",
-      "description": "Thursday, 1 October 2026, 4:15 CET, Zoom: tbd. About Felix Moser Felix is a Ph.D. Candidate at the University of St. Gallen under the supervision of Dr. Vinay and Prof. Kowatsch working on GRACE, a voice-based conversational agent that delivers Cognitive Stimulation Therapy [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "University of St",
-      "supervisor": "Dr. Vinay",
-      "keywords": [],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 10,
-      "summary": "University of St | Supervisor: Dr. Vinay | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University of St — health HCI / digital health. TBD. Dr. Vinay. (ETH CDHI)",
-      "papers": [],
-      "is_new": true
-    }
-  ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"University of St\",\"\",\"\",\"ai chatbot, digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/digital-health-forum-fall-2026-university-of-st-gallen/\",\"ETH CDHI\"\n\"University of St\",\"\",\"\",\"clinical\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/teaching-clinical-course-biostatistics-fall-2026-university-of-st-gallen/\",\"ETH CDHI\"\n\"University of St\",\"\",\"\",\"ai chatbot\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/digital-therapeutics-fall-2026-university-of-st-gallen/\",\"ETH CDHI\"\n\"University of St\",\"\",\"Dr. Vinay\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261001-stella-felix-moser-open-source-voice-ai/\",\"ETH CDHI\"",
-  "items": [
-    {
-      "id": "4bfa9e3cc3e7b532922875031aad92a6",
-      "title": "Digital Health Forum, Fall 2026, University of St.Gallen",
-      "link": "https://www.c4dhi.org/news/digital-health-forum-fall-2026-university-of-st-gallen/",
-      "description": "Keynotes Keynote by Felix Moser on Open-Source Voice AI for Health Research, Thursday, 1 October 2026, 4:15 – 5:15 pm CETKeynote by t.b.d.Keynote by t.b.d.Keynote by t.b.d.Final group presentations: Monday, 3 December 2026, 1:15 - 5:00 pm CET, HSG SQUARE Arena Generative AI Chatbot for [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "University of St",
-      "supervisor": "",
-      "keywords": [
-        "ai chatbot",
-        "digital health"
-      ],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 28,
-      "summary": "University of St | Keywords: ai chatbot, digital health | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University of St — ai chatbot, digital health. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": true
-    },
-    {
-      "id": "8c043a5283c5ee67aa6dc0c12d39fe30",
-      "title": "Clinical Course Biostatistics, Fall 2026, University of St.Gallen",
-      "link": "https://www.c4dhi.org/news/teaching-clinical-course-biostatistics-fall-2026-university-of-st-gallen/",
-      "description": "How can we turn clinical questions into meaningful statistical evidence? Understanding and applying statistics is essential for clinical research and evidence-based medicine. The Clinical Course Biostatistics combines a concise refresher on descriptive and inferential statistics with practical data analysis in R. Students develop the skills needed for [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "University of St",
-      "supervisor": "",
-      "keywords": [
-        "clinical"
-      ],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [
-        "clinic"
-      ],
-      "eligibility": "",
-      "location": "",
-      "score": 28,
-      "summary": "University of St | Keywords: clinical | Funding: TBD | Collab: clinic | Deadline: Rolling",
-      "ai_summary": "PhD at University of St — clinical. TBD; collaboration with clinic. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "18d6f6fe69030bfff5dc631769b0dbed",
@@ -197,7 +101,7 @@
       "summary": "University of St | Keywords: ai chatbot | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University of St — ai chatbot. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e769b987f7a6e6bc8be7b17975c0d4d4",
@@ -287,7 +191,240 @@
       "summary": "University of St | Supervisor: Dr. Vinay | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University of St — health HCI / digital health. TBD. Dr. Vinay. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "b05fc3eee2ebf3f158f16a37578f1f50",
+      "title": "Top 3 Finalist at the Innovation Award in Menstrual Cycle Research 2026",
+      "link": "https://www.c4dhi.org/news/260911-top-3-finalist-innovation-award-in-menstrual-cycle-research/",
+      "description": "We are delighted that our project Menstrual Health at Work: From an Organizational Blind Spot to Collective Destigmatization received 3rd place at the Innovation Award in Menstrual Cycle Research (IAMCR) 2026. The project, conducted together with EnBW Energie Baden-Württemberg AG, investigates how organizations can make menstrual [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "d047c3c4179434f56d64c684c9094e6f",
+      "title": "Stellenausschreibung: Bachelor-/Masterstudierende gesucht – Teilzeit Research Assistant (20-50 %) für T2D-Präventionsstudie",
+      "link": "https://www.c4dhi.org/news/stellenausschreibung-bachelor-masterstudierende-gesucht-teilzeit-research-assistant-20-50-fur-t2d-praventionsstudie/",
+      "description": "Bachelor-/Masterstudierende gesucht: Teilzeit Research Assistant (20-50%) für Diabetes-Präventionsstudie Über die Glow Up Studie Die Glow Up Studie ist ein Forschungsprojekt im Bereich Digitale Gesundheit. Ziel der Studie ist die Entwicklung eines digitalen Biomarkers zur Früherkennung von Prädiabetes. Mithilfe von Wearables und weiteren digitalen Messmethoden untersuchen wir [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    }
+  ],
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"University of St\",\"\",\"\",\"ai chatbot, digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/digital-health-forum-fall-2026-university-of-st-gallen/\",\"ETH CDHI\"\n\"University of St\",\"\",\"\",\"clinical\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/teaching-clinical-course-biostatistics-fall-2026-university-of-st-gallen/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"clinical, digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/apps-on-prescription-prof-kowatsch-switzerlands-first-reimbursed-digital-health-application/\",\"ETH CDHI\"\n\"University of St\",\"\",\"\",\"ai chatbot\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/digital-therapeutics-fall-2026-university-of-st-gallen/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/a-warm-welcome-to-new-team-member-megan-mccrory/\",\"ETH CDHI\"\n\"UiT\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260910-timing-matters-alexandre-de-montleau-at-muc-2026/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260901-when-users-go-quiet-lola-ackermann-at-muc-2026/\",\"ETH CDHI\"\n\"University of St\",\"\",\"Dr. Vinay\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261001-stella-felix-moser-open-source-voice-ai/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260911-top-3-finalist-innovation-award-in-menstrual-cycle-research/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/stellenausschreibung-bachelor-masterstudierende-gesucht-teilzeit-research-assistant-20-50-fur-t2d-praventionsstudie/\",\"ETH CDHI\"",
+  "items": [
+    {
+      "id": "4bfa9e3cc3e7b532922875031aad92a6",
+      "title": "Digital Health Forum, Fall 2026, University of St.Gallen",
+      "link": "https://www.c4dhi.org/news/digital-health-forum-fall-2026-university-of-st-gallen/",
+      "description": "Keynotes Keynote by Felix Moser on Open-Source Voice AI for Health Research, Thursday, 1 October 2026, 4:15 – 5:15 pm CETKeynote by t.b.d.Keynote by t.b.d.Keynote by t.b.d.Final group presentations: Monday, 3 December 2026, 1:15 - 5:00 pm CET, HSG SQUARE Arena Generative AI Chatbot for [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of St",
+      "supervisor": "",
+      "keywords": [
+        "ai chatbot",
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 28,
+      "summary": "University of St | Keywords: ai chatbot, digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University of St — ai chatbot, digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "8c043a5283c5ee67aa6dc0c12d39fe30",
+      "title": "Clinical Course Biostatistics, Fall 2026, University of St.Gallen",
+      "link": "https://www.c4dhi.org/news/teaching-clinical-course-biostatistics-fall-2026-university-of-st-gallen/",
+      "description": "How can we turn clinical questions into meaningful statistical evidence? Understanding and applying statistics is essential for clinical research and evidence-based medicine. The Clinical Course Biostatistics combines a concise refresher on descriptive and inferential statistics with practical data analysis in R. Students develop the skills needed for [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of St",
+      "supervisor": "",
+      "keywords": [
+        "clinical"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [
+        "clinic"
+      ],
+      "eligibility": "",
+      "location": "",
+      "score": 28,
+      "summary": "University of St | Keywords: clinical | Funding: TBD | Collab: clinic | Deadline: Rolling",
+      "ai_summary": "PhD at University of St — clinical. TBD; collaboration with clinic. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "18d6f6fe69030bfff5dc631769b0dbed",
+      "title": "Apps on Prescription: Prof. Tobias Kowatsch on Switzerland’s First Reimbursed Digital Therapeutic",
+      "link": "https://www.c4dhi.org/news/apps-on-prescription-prof-kowatsch-switzerlands-first-reimbursed-digital-health-application/",
+      "description": "Since 1 July 2026, physicians in Switzerland can, for the first time, prescribe a digital health application at the expense of mandatory health insurance. What this milestone means for everyday clinical practice was the subject of the opening talk at the 3rd St.Galler Ärztesymposium, delivered by [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "clinical",
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [
+        "clinic"
+      ],
+      "eligibility": "",
+      "location": "",
+      "score": 26,
+      "summary": "Keywords: clinical, digital health | Funding: TBD | Collab: clinic | Deadline: Rolling",
+      "ai_summary": "PhD at University — clinical, digital health. TBD; collaboration with clinic. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "f595c41a4b224e5c538f9d4e14340a47",
+      "title": "Digital Therapeutics, Fall 2026, University of St.Gallen",
+      "link": "https://www.c4dhi.org/news/digital-therapeutics-fall-2026-university-of-st-gallen/",
+      "description": "Towards Conversational AI for Disease Management (Nature, 2026), Generative AI Chatbot for Mental Health Treatment (NEJM AI, 2025) Mobile health intervention CanRelax reduces distress in people with cancer, (npj Digital Medicine 2025) Therabot for the treatment of mental disorders (Nature Mental Health 2025), A Hybrid Rule- and [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of St",
+      "supervisor": "",
+      "keywords": [
+        "ai chatbot"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "University of St | Keywords: ai chatbot | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University of St — ai chatbot. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "e769b987f7a6e6bc8be7b17975c0d4d4",
+      "title": "A warm welcome to new team member Megan McCrory",
+      "link": "https://www.c4dhi.org/news/a-warm-welcome-to-new-team-member-megan-mccrory/",
+      "description": "We are delighted to welcome Megan McCrory as our newest member of the CDHI team! Megan joins us as the CAS Digital Health: Therapeutics Program Manager, where she will oversee program operations, coordinate stakeholders, and contribute to an engaging, high-quality experience for participants throughout their [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "0d3ac15c203b0c8a125b923c4218fea9",
+      "title": "Timing Matters: Alexandre de Montleau at MuC 2026",
+      "link": "https://www.c4dhi.org/news/260910-timing-matters-alexandre-de-montleau-at-muc-2026/",
+      "description": "On 31 August 2026, Alexandre de Montleau presented our latest work at Mensch und Computer 2026 in Duisburg: helping digital health interventions find a suitable moment to offer support. PULSE, the Personalized User-Level Scheduling Engine, is a reusable scheduling service developed as part of our [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "UiT",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "UiT | Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at UiT — digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "7a2b2f0d4aeed62ad8ec53ad316af799",
+      "title": "When Users Go Quiet: Lola Ackermann at MuC 2026",
+      "link": "https://www.c4dhi.org/news/260901-when-users-go-quiet-lola-ackermann-at-muc-2026/",
+      "description": "On 31 August 2026, Lola Jo Ackermann presented our latest work at Mensch und Computer 2026 in Duisburg: helping digital health apps offer timely support when participants are at risk of missing their next scheduled check-in. The prototype, ADHERE-MCP, is a reusable software service built [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "5e3f158140473d8296c3ff3c13a24a4b",
+      "title": "Meet STELLA: Keynote by Felix Moser on Open-Source Voice AI for Health Research, 1 Oct 2026",
+      "link": "https://www.c4dhi.org/news/261001-stella-felix-moser-open-source-voice-ai/",
+      "description": "Thursday, 1 October 2026, 4:15 CET, Zoom: tbd. About Felix Moser Felix is a Ph.D. Candidate at the University of St. Gallen under the supervision of Dr. Vinay and Prof. Kowatsch working on GRACE, a voice-based conversational agent that delivers Cognitive Stimulation Therapy [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of St",
+      "supervisor": "Dr. Vinay",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "University of St | Supervisor: Dr. Vinay | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University of St — health HCI / digital health. TBD. Dr. Vinay. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
     },
     {
       "id": "b05fc3eee2ebf3f158f16a37578f1f50",
