@@ -1,54 +1,35 @@
 {
-  "generated_at": "2026-10-18T08:32:46.309131+00:00",
+  "generated_at": "2026-10-19T09:35:36.560832+00:00",
   "total_items": 10,
   "by_source": {
     "ETH CDHI": 10
   },
   "top10_new_or_updated": [
     {
-      "id": "d35e0a26287f0fa16da80f06301ab0b9",
-      "title": "Davinny Sou receives SIG Health Student Service Award 2026",
-      "link": "https://www.c4dhi.org/news/261016-davinny-sou-sig-health-student-service-award-2026/",
-      "description": "We are delighted to congratulate Davinny Sou on being selected as a recipient of the SIG Health Student Service Award 2026! Presented by SIG Health of the Association for Information Systems (AIS), the award recognises her outstanding service, dedication and contributions to the SIG Health [...]",
+      "id": "9866588abadaccd9ed8fe419c2681e38",
+      "title": "Keynote and Panel Discussion with Prof. Kowatsch: Shaping AI in Cancer Care, Vienna, Austria",
+      "link": "https://www.c4dhi.org/news/261010-keynote-panel-prof-kowatsch-shaping-ai-in-cancer-care-vienna-austria/",
+      "description": "On 10 October 2026, Prof. Dr. Tobias Kowatsch attended the Annual Meeting of the German, Austrian and Swiss Societies for Haematology and Medical Oncology in Vienna. His keynote, Generative AI in Digital Therapeutics: Safety through Multidisciplinary Collaboration, formed part of the nursing conference session on AI [...]",
       "source": "ETH CDHI",
       "social": false,
       "university": "",
-      "supervisor": "",
+      "supervisor": "Prof. Dr",
       "keywords": [],
       "funding": "TBD",
       "deadline": "Rolling",
-      "collab": [],
+      "collab": [
+        "collaboration"
+      ],
       "eligibility": "",
       "location": "",
       "score": 10,
-      "summary": "Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": true
-    },
-    {
-      "id": "27a2bc774937dbe4449a0c597696cdc7",
-      "title": "Dr. Rasita Vinay named among Switzerland’s Top 100+ Women in AI, Data & Robotics for 2026",
-      "link": "https://www.c4dhi.org/news/260928-rasita-vinay-named-among-switzerlands-top-100-women-in-ai-data-robotics-for-2026/",
-      "description": "We are delighted to share that Dr. Rasita Vinay, our CORE Director for Digital Ethics and Care for Older Adults, has been named among Switzerland’s Top 100+ Women in AI, Data &amp; Robotics for 2026. Published by the ETH AI Center and Greater Zurich Area, [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "",
-      "supervisor": "Dr. Rasita",
-      "keywords": [],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 10,
-      "summary": "Supervisor: Dr. Rasita | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — health HCI / digital health. TBD. Dr. Rasita. (ETH CDHI)",
+      "summary": "Supervisor: Prof. Dr | Funding: TBD | Collab: collaboration | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD; collaboration with collaboration. Prof. Dr. (ETH CDHI)",
       "papers": [],
       "is_new": true
     }
   ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261016-davinny-sou-sig-health-student-service-award-2026/\",\"ETH CDHI\"\n\"\",\"\",\"Dr. Rasita\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/260928-rasita-vinay-named-among-switzerlands-top-100-women-in-ai-data-robotics-for-2026/\",\"ETH CDHI\"",
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"Prof. Dr\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261010-keynote-panel-prof-kowatsch-shaping-ai-in-cancer-care-vienna-austria/\",\"ETH CDHI\"",
   "items": [
     {
       "id": "4bfa9e3cc3e7b532922875031aad92a6",
@@ -123,29 +104,6 @@
       "is_new": false
     },
     {
-      "id": "f595c41a4b224e5c538f9d4e14340a47",
-      "title": "Digital Therapeutics, Fall 2026, University of St.Gallen",
-      "link": "https://www.c4dhi.org/news/digital-therapeutics-fall-2026-university-of-st-gallen/",
-      "description": "Towards Conversational AI for Disease Management (Nature, 2026), Generative AI Chatbot for Mental Health Treatment (NEJM AI, 2025) Mobile health intervention CanRelax reduces distress in people with cancer, (npj Digital Medicine 2025) Therabot for the treatment of mental disorders (Nature Mental Health 2025), A Hybrid Rule- and [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "University of St",
-      "supervisor": "",
-      "keywords": [
-        "ai chatbot"
-      ],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 18,
-      "summary": "University of St | Keywords: ai chatbot | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University of St — ai chatbot. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": false
-    },
-    {
       "id": "d35e0a26287f0fa16da80f06301ab0b9",
       "title": "Davinny Sou receives SIG Health Student Service Award 2026",
       "link": "https://www.c4dhi.org/news/261016-davinny-sou-sig-health-student-service-award-2026/",
@@ -163,6 +121,29 @@
       "score": 10,
       "summary": "Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "9866588abadaccd9ed8fe419c2681e38",
+      "title": "Keynote and Panel Discussion with Prof. Kowatsch: Shaping AI in Cancer Care, Vienna, Austria",
+      "link": "https://www.c4dhi.org/news/261010-keynote-panel-prof-kowatsch-shaping-ai-in-cancer-care-vienna-austria/",
+      "description": "On 10 October 2026, Prof. Dr. Tobias Kowatsch attended the Annual Meeting of the German, Austrian and Swiss Societies for Haematology and Medical Oncology in Vienna. His keynote, Generative AI in Digital Therapeutics: Safety through Multidisciplinary Collaboration, formed part of the nursing conference session on AI [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "Prof. Dr",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [
+        "collaboration"
+      ],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Supervisor: Prof. Dr | Funding: TBD | Collab: collaboration | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD; collaboration with collaboration. Prof. Dr. (ETH CDHI)",
       "papers": [],
       "is_new": true
     },
@@ -248,7 +229,7 @@
       "summary": "Supervisor: Dr. Rasita | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — health HCI / digital health. TBD. Dr. Rasita. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "5e3f158140473d8296c3ff3c13a24a4b",
