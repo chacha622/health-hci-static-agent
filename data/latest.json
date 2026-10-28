@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T09:43:03.009832+00:00",
+  "generated_at": "2026-10-27T09:36:28.095529+00:00",
   "total_items": 10,
   "by_source": {
     "ETH CDHI": 10
@@ -26,7 +26,7 @@
       "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2fc7e22a2f738f39d953f995a68fcafb",
@@ -49,7 +49,7 @@
       "summary": "University of Zurich | Supervisor: Prof. Tobias | Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University of Zurich — digital health. TBD. Prof. Tobias. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e0bd77ad3df64a15f9bf3840c8d82ec3",
@@ -72,7 +72,7 @@
       "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8ac788b1b8faddd71a07babdbc9db60c",
@@ -95,10 +95,140 @@
       "summary": "Supervisor: Dr Jacqueline | Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — digital health. TBD. Dr Jacqueline. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "d04e6d05359896b06ef67ecbe5d6b42a",
+      "title": "From Wearables to AI Coaching: Join CDHI at ISRII 2026, Oct 20-22, Newcastle, Australia",
+      "link": "https://www.c4dhi.org/news/261003-digital-health-real-life-join-cdhi-at-isrii-2026-oct-20-22-newcastle-australia/",
+      "description": "Join our researchers in Newcastle, Australia, on 20–22 October 2026 for the ISRII 14th Scientific Meeting. With 9 accepted contributions, we will explore a shared ambition: making digital health more responsive to people’s needs and easier to put into practice. That journey starts with understanding [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "d35e0a26287f0fa16da80f06301ab0b9",
+      "title": "Davinny Sou receives SIG Health Student Service Award 2026",
+      "link": "https://www.c4dhi.org/news/261016-davinny-sou-sig-health-student-service-award-2026/",
+      "description": "We are delighted to congratulate Davinny Sou on being selected as a recipient of the SIG Health Student Service Award 2026! Presented by SIG Health of the Association for Information Systems (AIS), the award recognises her outstanding service, dedication and contributions to the SIG Health [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "9866588abadaccd9ed8fe419c2681e38",
+      "title": "Keynote and Panel Discussion with Prof. Kowatsch: Shaping AI in Cancer Care, Vienna, Austria",
+      "link": "https://www.c4dhi.org/news/261010-keynote-panel-prof-kowatsch-shaping-ai-in-cancer-care-vienna-austria/",
+      "description": "On 10 October 2026, Prof. Dr. Tobias Kowatsch attended the Annual Meeting of the German, Austrian and Swiss Societies for Haematology and Medical Oncology in Vienna. His keynote, Generative AI in Digital Therapeutics: Safety through Multidisciplinary Collaboration, formed part of the nursing conference session on AI [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "Prof. Dr",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [
+        "collaboration"
+      ],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Supervisor: Prof. Dr | Funding: TBD | Collab: collaboration | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD; collaboration with collaboration. Prof. Dr. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "61356558b781845d79531419a12d02f4",
+      "title": "Periods, Peers and Safe Spaces: Marinja Principe at NordiCHI 2026",
+      "link": "https://www.c4dhi.org/news/261005-periods-peers-safe-spaces-marinja-principe-at-nordichi-2026/",
+      "description": "Who do young people turn to for menstrual health support? Marinja Principe is presenting research on this question at NordiCHI 2026 in Vaasa, Finland, during the main conference on 5–7 October 2026. In six exploratory workshops, ten children and adolescents aged 8–17 mapped the people, [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "c8422a5cf7b8728c2f065a1ccb26d4c4",
+      "title": "Scale-IT-Up Workshop: Agentic DTx and Blended Care, 19-21 Feb 2027, Valletta, Malta",
+      "link": "https://www.c4dhi.org/news/261005-scale-it-up-agentic-dtx-blended-care-19-21-feb-2027-valletta-malta/",
+      "description": "Please join us at the Scale-IT-Up Workshop 2027 in Valletta, Malta, held in conjunction with the 20th International Joint Conference on Biomedical Engineering Systems and Technologies – BIOSTEC 2027, 19–21 February 2027. The full-day workshop is currently planned for Friday, 19 February. SCOPE Key question: How [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "b65c00c70f703394cf92417dd6a70ee1",
+      "title": "PreDiabeTx: Swiss Precision Digital Therapeutics for the Prevention of Type-2 Diabetes",
+      "link": "https://www.c4dhi.org/projects/prediabetx/",
+      "description": "Type 2 diabetes is a common disease of affluence. Around half a million people in Switzerland are affected by this chronic metabolic disorder – and the trend is rising. In type 2 diabetes, the body’s response to the hormone insulin is impaired. Blood sugar levels rise – and [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
     }
   ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261104-keynote-marinja-principe-on-lost-in-ethics-stuck-in-regulation-how-pearl-supports-digital-health-researchers/\",\"ETH CDHI\"\n\"University of Zurich\",\"\",\"Prof. Tobias\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261024-prof-kowatsch-celebrates-st-gallens-joint-medical-master-graduates-staatsfeier/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261021-wearables-to-ai-coaching-looking-back-at-cdhi-isrii-newcastle-australia/\",\"ETH CDHI\"\n\"\",\"\",\"Dr Jacqueline\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261014-cdhi-ncss-blended-care-agentic-ai-for-social-services-in-singapore/\",\"ETH CDHI\"",
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261104-keynote-marinja-principe-on-lost-in-ethics-stuck-in-regulation-how-pearl-supports-digital-health-researchers/\",\"ETH CDHI\"\n\"University of Zurich\",\"\",\"Prof. Tobias\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261024-prof-kowatsch-celebrates-st-gallens-joint-medical-master-graduates-staatsfeier/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261021-wearables-to-ai-coaching-looking-back-at-cdhi-isrii-newcastle-australia/\",\"ETH CDHI\"\n\"\",\"\",\"Dr Jacqueline\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261014-cdhi-ncss-blended-care-agentic-ai-for-social-services-in-singapore/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261003-digital-health-real-life-join-cdhi-at-isrii-2026-oct-20-22-newcastle-australia/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261016-davinny-sou-sig-health-student-service-award-2026/\",\"ETH CDHI\"\n\"\",\"\",\"Prof. Dr\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261010-keynote-panel-prof-kowatsch-shaping-ai-in-cancer-care-vienna-austria/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261005-periods-peers-safe-spaces-marinja-principe-at-nordichi-2026/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261005-scale-it-up-agentic-dtx-blended-care-19-21-feb-2027-valletta-malta/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/projects/prediabetx/\",\"ETH CDHI\"",
   "items": [
     {
       "id": "2d400cfa17278a23720fe7036a869100",
@@ -121,7 +251,7 @@
       "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2fc7e22a2f738f39d953f995a68fcafb",
@@ -144,7 +274,7 @@
       "summary": "University of Zurich | Supervisor: Prof. Tobias | Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University of Zurich — digital health. TBD. Prof. Tobias. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "e0bd77ad3df64a15f9bf3840c8d82ec3",
@@ -167,7 +297,7 @@
       "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "8ac788b1b8faddd71a07babdbc9db60c",
@@ -190,7 +320,7 @@
       "summary": "Supervisor: Dr Jacqueline | Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — digital health. TBD. Dr Jacqueline. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "d04e6d05359896b06ef67ecbe5d6b42a",
