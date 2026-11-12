@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T12:06:15.537200+00:00",
+  "generated_at": "2026-11-11T11:40:45.432944+00:00",
   "total_items": 10,
   "by_source": {
     "ETH CDHI": 10
@@ -30,83 +30,7 @@
       "summary": "Keywords: clinical, digital health | Funding: TBD | Collab: clinic, partner | Deadline: Rolling",
       "ai_summary": "PhD at University — clinical, digital health. TBD; collaboration with clinic, partner. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
-    },
-    {
-      "id": "a04f029ce44be60453130c350196509e",
-      "title": "Master’s Project: Smart Brace Feedback for Teenagers with Scoliosis",
-      "link": "https://www.c4dhi.org/thesis-topic/smart-brace-feedback-scoliosis/",
-      "description": "Integrating wearable sensors into a MobileCoach app to track brace (German: Korsett) wear time and give children motivating feedback A Master thesis topic is available at the Centre for Digital Health Interventions! Overview We are looking for a team of 3 to 4 Master's students [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "",
-      "supervisor": "",
-      "keywords": [
-        "digital health"
-      ],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 18,
-      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": true
-    },
-    {
-      "id": "898555374b51f91ad53285466e389a68",
-      "title": "Master’s Thesis Topic: Co-Designing a Digital Companion for Teenagers with Scoliosis",
-      "link": "https://www.c4dhi.org/thesis-topic/thesis-topic-co-designing-a-digital-companion-for-teenagers-with-scoliosis/",
-      "description": "Focus groups with children, adolescents and parents to shape a digital health intervention for idiopathic scoliosis A Master thesis topic is available at the Centre for Digital Health Interventions! Overview We are looking for a Master's student in health sciences, psychology, human-computer interaction, public health [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "",
-      "supervisor": "",
-      "keywords": [
-        "digital health"
-      ],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 18,
-      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": true
-    }
-  ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"clinical, digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261112-13-cdhi-sged-ssed-annual-meeting-in-lucerne/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/smart-brace-feedback-scoliosis/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/thesis-topic-co-designing-a-digital-companion-for-teenagers-with-scoliosis/\",\"ETH CDHI\"",
-  "items": [
-    {
-      "id": "efd72663e6c3f35e1b1227a021333b54",
-      "title": "Meet CDHI at the SGED-SSED Annual Meeting in Lucerne, 12-13 November 2026",
-      "link": "https://www.c4dhi.org/news/261112-13-cdhi-sged-ssed-annual-meeting-in-lucerne/",
-      "description": "Join the Centre for Digital Health Interventions (CDHI) at the Annual Meeting of the Swiss Society of Endocrinology and Diabetology (SGED-SSED), 12–13 November 2026, at KKL Lucerne, Switzerland. Together with our clinical and research partners, we will present five posters spanning conversational support for type [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "",
-      "supervisor": "",
-      "keywords": [
-        "clinical",
-        "digital health"
-      ],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [
-        "clinic",
-        "partner"
-      ],
-      "eligibility": "",
-      "location": "",
-      "score": 26,
-      "summary": "Keywords: clinical, digital health | Funding: TBD | Collab: clinic, partner | Deadline: Rolling",
-      "ai_summary": "PhD at University — clinical, digital health. TBD; collaboration with clinic, partner. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "2d400cfa17278a23720fe7036a869100",
@@ -152,7 +76,7 @@
       "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "898555374b51f91ad53285466e389a68",
@@ -175,7 +99,238 @@
       "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
       "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "c025dfd09c56acd77d5ed6a97d055d53",
+      "title": "Tobias Kowatsch recognised among JMIR Publications’ top 1% most-cited authors",
+      "link": "https://www.c4dhi.org/news/261107-tobias-kowatsch-jmir-top-1-most-cited-authors/",
+      "description": "JMIR Publications has recognized Prof. Dr. Tobias Kowatsch, Co-Chair and Core Director for Precision Digital Therapeutics of the Centre for Digital Health Interventions , among the top 1% of authors in its publishing history based on cumulative citations. The distinction forms part of JMIR’s Citation [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "Prof. Dr",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "Supervisor: Prof. Dr | Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — digital health. TBD. Prof. Dr. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "2fc7e22a2f738f39d953f995a68fcafb",
+      "title": "Prof. Tobias Kowatsch Celebrates St.Gallen’s Joint Medical Master Graduates at Staatsfeier 2026",
+      "link": "https://www.c4dhi.org/news/261024-prof-kowatsch-celebrates-st-gallens-joint-medical-master-graduates-staatsfeier/",
+      "description": "On 24 October 2026, at Staatsfeier 2026 at the Kongresshaus Zürich, Prof. Tobias Kowatsch, Director of the School of Medicine at the University of St.Gallen and Professor for Digital Health Interventions at the University of Zurich, had the pleasure of congratulating 19 graduates of the [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "University of Zurich",
+      "supervisor": "Prof. Tobias",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "University of Zurich | Supervisor: Prof. Tobias | Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University of Zurich — digital health. TBD. Prof. Tobias. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "e0bd77ad3df64a15f9bf3840c8d82ec3",
+      "title": "From Wearables to AI Coaching: Looking Back at ISRII 2026 in Newcastle, Australia",
+      "link": "https://www.c4dhi.org/news/261021-wearables-to-ai-coaching-looking-back-at-cdhi-isrii-newcastle-australia/",
+      "description": "From 20–22 October 2026, our researchers joined the ISRII 14th Scientific Meeting in Newcastle, Australia. With nine accepted contributions, CDHI shared research addressing a common ambition: developing digital health interventions that respond to people’s needs and fit into everyday life. Our on-site team brought these [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "db5f9118cd2b7647ad1696f38c99ad9b",
+      "title": "Time-Series Language Models in Health Care: Keynote by Dr. Patrick Langer, 19 Nov 2026",
+      "link": "https://www.c4dhi.org/news/261103-time-series-language-models-in-health-care-keynote-by-dr-patrick-langer-19-nov-2026/",
+      "description": "19 November 2026, 4:15 pm CET, Zoom About Dr. Patrick Langer Dr. Patrick Langer is Co-Founder of Aionic Labs, Scientific Director at the ETH Agentic Systems Lab, and Researcher at Stanford Computational Medicine. He earned his PhD in Machine Learning and Applied Computer Science at [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "Dr. Patrick",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Supervisor: Dr. Patrick | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Dr. Patrick. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "c8422a5cf7b8728c2f065a1ccb26d4c4",
+      "title": "Scale-IT-Up Workshop: Agentic DTx and Blended Care, 19-21 Feb 2027, Valletta, Malta",
+      "link": "https://www.c4dhi.org/news/261005-scale-it-up-agentic-dtx-blended-care-19-21-feb-2027-valletta-malta/",
+      "description": "Please join us at the Scale-IT-Up Workshop 2027 in Valletta, Malta, held in conjunction with the 20th International Joint Conference on Biomedical Engineering Systems and Technologies – BIOSTEC 2027, 19–21 February 2027. The full-day workshop is currently planned for Friday, 19 February. SCOPE Key question: How [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "d35e0a26287f0fa16da80f06301ab0b9",
+      "title": "Davinny Sou receives SIG Health Student Service Award 2026",
+      "link": "https://www.c4dhi.org/news/261016-davinny-sou-sig-health-student-service-award-2026/",
+      "description": "We are delighted to congratulate Davinny Sou on being selected as a recipient of the SIG Health Student Service Award 2026! Presented by SIG Health of the Association for Information Systems (AIS), the award recognises her outstanding service, dedication and contributions to the SIG Health [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 10,
+      "summary": "Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    }
+  ],
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"clinical, digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261112-13-cdhi-sged-ssed-annual-meeting-in-lucerne/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261104-keynote-marinja-principe-on-lost-in-ethics-stuck-in-regulation-how-pearl-supports-digital-health-researchers/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/smart-brace-feedback-scoliosis/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/thesis-topic-co-designing-a-digital-companion-for-teenagers-with-scoliosis/\",\"ETH CDHI\"\n\"\",\"\",\"Prof. Dr\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261107-tobias-kowatsch-jmir-top-1-most-cited-authors/\",\"ETH CDHI\"\n\"University of Zurich\",\"\",\"Prof. Tobias\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261024-prof-kowatsch-celebrates-st-gallens-joint-medical-master-graduates-staatsfeier/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261021-wearables-to-ai-coaching-looking-back-at-cdhi-isrii-newcastle-australia/\",\"ETH CDHI\"\n\"\",\"\",\"Dr. Patrick\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261103-time-series-language-models-in-health-care-keynote-by-dr-patrick-langer-19-nov-2026/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261005-scale-it-up-agentic-dtx-blended-care-19-21-feb-2027-valletta-malta/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261016-davinny-sou-sig-health-student-service-award-2026/\",\"ETH CDHI\"",
+  "items": [
+    {
+      "id": "efd72663e6c3f35e1b1227a021333b54",
+      "title": "Meet CDHI at the SGED-SSED Annual Meeting in Lucerne, 12-13 November 2026",
+      "link": "https://www.c4dhi.org/news/261112-13-cdhi-sged-ssed-annual-meeting-in-lucerne/",
+      "description": "Join the Centre for Digital Health Interventions (CDHI) at the Annual Meeting of the Swiss Society of Endocrinology and Diabetology (SGED-SSED), 12–13 November 2026, at KKL Lucerne, Switzerland. Together with our clinical and research partners, we will present five posters spanning conversational support for type [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "clinical",
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [
+        "clinic",
+        "partner"
+      ],
+      "eligibility": "",
+      "location": "",
+      "score": 26,
+      "summary": "Keywords: clinical, digital health | Funding: TBD | Collab: clinic, partner | Deadline: Rolling",
+      "ai_summary": "PhD at University — clinical, digital health. TBD; collaboration with clinic, partner. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "2d400cfa17278a23720fe7036a869100",
+      "title": "Keynote by Marinja Principe on Lost in Ethics, Stuck in Regulation: How PEARL Supports Digital Health Researchers",
+      "link": "https://www.c4dhi.org/news/261104-keynote-marinja-principe-on-lost-in-ethics-stuck-in-regulation-how-pearl-supports-digital-health-researchers/",
+      "description": "Wednesday, 4 November, 3:15 pm CET via Zoom About Marinja Principe. Marinja Principe is a researcher within University Medicine Zurich’s (UMZH) technology initiative PRECIOUS, a Design and Trial Service for Precision Digital Therapeutics, where she contributes to the PEARL project. She is also a [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 20,
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "a04f029ce44be60453130c350196509e",
+      "title": "Master’s Project: Smart Brace Feedback for Teenagers with Scoliosis",
+      "link": "https://www.c4dhi.org/thesis-topic/smart-brace-feedback-scoliosis/",
+      "description": "Integrating wearable sensors into a MobileCoach app to track brace (German: Korsett) wear time and give children motivating feedback A Master thesis topic is available at the Centre for Digital Health Interventions! Overview We are looking for a team of 3 to 4 Master's students [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
+    },
+    {
+      "id": "898555374b51f91ad53285466e389a68",
+      "title": "Master’s Thesis Topic: Co-Designing a Digital Companion for Teenagers with Scoliosis",
+      "link": "https://www.c4dhi.org/thesis-topic/thesis-topic-co-designing-a-digital-companion-for-teenagers-with-scoliosis/",
+      "description": "Focus groups with children, adolescents and parents to shape a digital health intervention for idiopathic scoliosis A Master thesis topic is available at the Centre for Digital Health Interventions! Overview We are looking for a Master's student in health sciences, psychology, human-computer interaction, public health [...]",
+      "source": "ETH CDHI",
+      "social": false,
+      "university": "",
+      "supervisor": "",
+      "keywords": [
+        "digital health"
+      ],
+      "funding": "TBD",
+      "deadline": "Rolling",
+      "collab": [],
+      "eligibility": "",
+      "location": "",
+      "score": 18,
+      "summary": "Keywords: digital health | Funding: TBD | Deadline: Rolling",
+      "ai_summary": "PhD at University — digital health. TBD. Supervisor TBD. (ETH CDHI)",
+      "papers": [],
+      "is_new": false
     },
     {
       "id": "c025dfd09c56acd77d5ed6a97d055d53",
