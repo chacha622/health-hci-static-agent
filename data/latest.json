@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-11T11:40:45.432944+00:00",
-  "total_items": 10,
+  "generated_at": "2026-11-12T12:11:04.351528+00:00",
+  "total_items": 9,
   "by_source": {
-    "ETH CDHI": 10
+    "ETH CDHI": 9
   },
   "top10_new_or_updated": [
     {
@@ -211,30 +211,9 @@
       "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
       "papers": [],
       "is_new": false
-    },
-    {
-      "id": "d35e0a26287f0fa16da80f06301ab0b9",
-      "title": "Davinny Sou receives SIG Health Student Service Award 2026",
-      "link": "https://www.c4dhi.org/news/261016-davinny-sou-sig-health-student-service-award-2026/",
-      "description": "We are delighted to congratulate Davinny Sou on being selected as a recipient of the SIG Health Student Service Award 2026! Presented by SIG Health of the Association for Information Systems (AIS), the award recognises her outstanding service, dedication and contributions to the SIG Health [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "",
-      "supervisor": "",
-      "keywords": [],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 10,
-      "summary": "Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": false
     }
   ],
-  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"clinical, digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261112-13-cdhi-sged-ssed-annual-meeting-in-lucerne/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261104-keynote-marinja-principe-on-lost-in-ethics-stuck-in-regulation-how-pearl-supports-digital-health-researchers/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/smart-brace-feedback-scoliosis/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/thesis-topic-co-designing-a-digital-companion-for-teenagers-with-scoliosis/\",\"ETH CDHI\"\n\"\",\"\",\"Prof. Dr\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261107-tobias-kowatsch-jmir-top-1-most-cited-authors/\",\"ETH CDHI\"\n\"University of Zurich\",\"\",\"Prof. Tobias\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261024-prof-kowatsch-celebrates-st-gallens-joint-medical-master-graduates-staatsfeier/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261021-wearables-to-ai-coaching-looking-back-at-cdhi-isrii-newcastle-australia/\",\"ETH CDHI\"\n\"\",\"\",\"Dr. Patrick\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261103-time-series-language-models-in-health-care-keynote-by-dr-patrick-langer-19-nov-2026/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261005-scale-it-up-agentic-dtx-blended-care-19-21-feb-2027-valletta-malta/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261016-davinny-sou-sig-health-student-service-award-2026/\",\"ETH CDHI\"",
+  "csv_block": "\"University\",\"Lab/School\",\"Supervisor(s)\",\"Topic keywords\",\"Location\",\"Funding/Stipend\",\"Eligibility (International OK?)\",\"Deadline\",\"Link\",\"Source\"\n\"\",\"\",\"\",\"clinical, digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261112-13-cdhi-sged-ssed-annual-meeting-in-lucerne/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261104-keynote-marinja-principe-on-lost-in-ethics-stuck-in-regulation-how-pearl-supports-digital-health-researchers/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/smart-brace-feedback-scoliosis/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/thesis-topic/thesis-topic-co-designing-a-digital-companion-for-teenagers-with-scoliosis/\",\"ETH CDHI\"\n\"\",\"\",\"Prof. Dr\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261107-tobias-kowatsch-jmir-top-1-most-cited-authors/\",\"ETH CDHI\"\n\"University of Zurich\",\"\",\"Prof. Tobias\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261024-prof-kowatsch-celebrates-st-gallens-joint-medical-master-graduates-staatsfeier/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"digital health\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261021-wearables-to-ai-coaching-looking-back-at-cdhi-isrii-newcastle-australia/\",\"ETH CDHI\"\n\"\",\"\",\"Dr. Patrick\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261103-time-series-language-models-in-health-care-keynote-by-dr-patrick-langer-19-nov-2026/\",\"ETH CDHI\"\n\"\",\"\",\"\",\"\",\"\",\"TBD\",\"\",\"Rolling\",\"https://www.c4dhi.org/news/261005-scale-it-up-agentic-dtx-blended-care-19-21-feb-2027-valletta-malta/\",\"ETH CDHI\"",
   "items": [
     {
       "id": "efd72663e6c3f35e1b1227a021333b54",
@@ -427,27 +406,6 @@
       "title": "Scale-IT-Up Workshop: Agentic DTx and Blended Care, 19-21 Feb 2027, Valletta, Malta",
       "link": "https://www.c4dhi.org/news/261005-scale-it-up-agentic-dtx-blended-care-19-21-feb-2027-valletta-malta/",
       "description": "Please join us at the Scale-IT-Up Workshop 2027 in Valletta, Malta, held in conjunction with the 20th International Joint Conference on Biomedical Engineering Systems and Technologies – BIOSTEC 2027, 19–21 February 2027. The full-day workshop is currently planned for Friday, 19 February. SCOPE Key question: How [...]",
-      "source": "ETH CDHI",
-      "social": false,
-      "university": "",
-      "supervisor": "",
-      "keywords": [],
-      "funding": "TBD",
-      "deadline": "Rolling",
-      "collab": [],
-      "eligibility": "",
-      "location": "",
-      "score": 10,
-      "summary": "Funding: TBD | Deadline: Rolling",
-      "ai_summary": "PhD at University — health HCI / digital health. TBD. Supervisor TBD. (ETH CDHI)",
-      "papers": [],
-      "is_new": false
-    },
-    {
-      "id": "d35e0a26287f0fa16da80f06301ab0b9",
-      "title": "Davinny Sou receives SIG Health Student Service Award 2026",
-      "link": "https://www.c4dhi.org/news/261016-davinny-sou-sig-health-student-service-award-2026/",
-      "description": "We are delighted to congratulate Davinny Sou on being selected as a recipient of the SIG Health Student Service Award 2026! Presented by SIG Health of the Association for Information Systems (AIS), the award recognises her outstanding service, dedication and contributions to the SIG Health [...]",
       "source": "ETH CDHI",
       "social": false,
       "university": "",
